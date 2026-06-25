@@ -1,0 +1,1030 @@
+﻿banco,valor,metrica,fecha,pk
+Actinver,40390.65838,captacion_total,2025-03,Actinver_captacion_total_2025-03
+Actinver,38921.183187,captacion_total,2026-02,Actinver_captacion_total_2026-02
+Actinver,39661.965963,captacion_total,2026-03,Actinver_captacion_total_2026-03
+Actinver,37.051863,cuenta_global,2025-03,Actinver_cuenta_global_2025-03
+Actinver,21.331116,cuenta_global,2026-02,Actinver_cuenta_global_2026-02
+Actinver,21.035849,cuenta_global,2026-03,Actinver_cuenta_global_2026-03
+Actinver,14371.352187,dep_exigibilidad,2025-03,Actinver_dep_exigibilidad_2025-03
+Actinver,13920.590269,dep_exigibilidad,2026-02,Actinver_dep_exigibilidad_2026-02
+Actinver,12676.65636,dep_exigibilidad,2026-03,Actinver_dep_exigibilidad_2026-03
+Actinver,5443.187432,dep_plazo_dinero,2025-03,Actinver_dep_plazo_dinero_2025-03
+Actinver,5731.162012,dep_plazo_dinero,2026-02,Actinver_dep_plazo_dinero_2026-02
+Actinver,7556.072669,dep_plazo_dinero,2026-03,Actinver_dep_plazo_dinero_2026-03
+Actinver,8749.509664,dep_plazo_publico,2025-03,Actinver_dep_plazo_publico_2025-03
+Actinver,8513.493226,dep_plazo_publico,2026-02,Actinver_dep_plazo_publico_2026-02
+Actinver,7601.182051,dep_plazo_publico,2026-03,Actinver_dep_plazo_publico_2026-03
+Actinver,34.485949,prestamos_interb,2025-03,Actinver_prestamos_interb_2025-03
+Actinver,263.441119,prestamos_interb,2026-02,Actinver_prestamos_interb_2026-02
+Actinver,334.618682,prestamos_interb,2026-03,Actinver_prestamos_interb_2026-03
+Actinver,11755.071285,titulos_credito,2025-03,Actinver_titulos_credito_2025-03
+Actinver,10471.165445,titulos_credito,2026-02,Actinver_titulos_credito_2026-02
+Actinver,11472.400352,titulos_credito,2026-03,Actinver_titulos_credito_2026-03
+Afirme,88497.17595100001,captacion_total,2025-03,Afirme_captacion_total_2025-03
+Afirme,91543.069235,captacion_total,2026-02,Afirme_captacion_total_2026-02
+Afirme,90652.01245,captacion_total,2026-03,Afirme_captacion_total_2026-03
+Afirme,217.291097,cuenta_global,2025-03,Afirme_cuenta_global_2025-03
+Afirme,239.926786,cuenta_global,2026-02,Afirme_cuenta_global_2026-02
+Afirme,255.206909,cuenta_global,2026-03,Afirme_cuenta_global_2026-03
+Afirme,42566.903152,dep_exigibilidad,2025-03,Afirme_dep_exigibilidad_2025-03
+Afirme,45432.661047,dep_exigibilidad,2026-02,Afirme_dep_exigibilidad_2026-02
+Afirme,45562.101741,dep_exigibilidad,2026-03,Afirme_dep_exigibilidad_2026-03
+Afirme,0.0,dep_plazo_dinero,2025-03,Afirme_dep_plazo_dinero_2025-03
+Afirme,0.0,dep_plazo_dinero,2026-02,Afirme_dep_plazo_dinero_2026-02
+Afirme,0.0,dep_plazo_dinero,2026-03,Afirme_dep_plazo_dinero_2026-03
+Afirme,42454.446071,dep_plazo_publico,2025-03,Afirme_dep_plazo_publico_2025-03
+Afirme,42896.77426,dep_plazo_publico,2026-02,Afirme_dep_plazo_publico_2026-02
+Afirme,41919.765973,dep_plazo_publico,2026-03,Afirme_dep_plazo_publico_2026-03
+Afirme,2357.647309,prestamos_interb,2025-03,Afirme_prestamos_interb_2025-03
+Afirme,2942.660392,prestamos_interb,2026-02,Afirme_prestamos_interb_2026-02
+Afirme,2914.937827,prestamos_interb,2026-03,Afirme_prestamos_interb_2026-03
+Afirme,900.888322,titulos_credito,2025-03,Afirme_titulos_credito_2025-03
+Afirme,31.04675,titulos_credito,2026-02,Afirme_titulos_credito_2026-02
+Afirme,0.0,titulos_credito,2026-03,Afirme_titulos_credito_2026-03
+BBVA México,2077783.7345771,captacion_total,2025-03,BBVA México_captacion_total_2025-03
+BBVA México,2193113.13436944,captacion_total,2026-02,BBVA México_captacion_total_2026-02
+BBVA México,2252525.82154483,captacion_total,2026-03,BBVA México_captacion_total_2026-03
+BBVA México,6742.91943281,cuenta_global,2025-03,BBVA México_cuenta_global_2025-03
+BBVA México,7580.618857310001,cuenta_global,2026-02,BBVA México_cuenta_global_2026-02
+BBVA México,7621.62609086,cuenta_global,2026-03,BBVA México_cuenta_global_2026-03
+BBVA México,1604013.6115484,dep_exigibilidad,2025-03,BBVA México_dep_exigibilidad_2025-03
+BBVA México,1652616.53462037,dep_exigibilidad,2026-02,BBVA México_dep_exigibilidad_2026-02
+BBVA México,1699957.22492097,dep_exigibilidad,2026-03,BBVA México_dep_exigibilidad_2026-03
+BBVA México,34736.31501847,dep_plazo_dinero,2025-03,BBVA México_dep_plazo_dinero_2025-03
+BBVA México,15041.104972950001,dep_plazo_dinero,2026-02,BBVA México_dep_plazo_dinero_2026-02
+BBVA México,15096.73858469,dep_plazo_dinero,2026-03,BBVA México_dep_plazo_dinero_2026-03
+BBVA México,268143.63777231,dep_plazo_publico,2025-03,BBVA México_dep_plazo_publico_2025-03
+BBVA México,323422.62494526,dep_plazo_publico,2026-02,BBVA México_dep_plazo_publico_2026-02
+BBVA México,336644.14793789,dep_plazo_publico,2026-03,BBVA México_dep_plazo_publico_2026-03
+BBVA México,15725.89229183,prestamos_interb,2025-03,BBVA México_prestamos_interb_2025-03
+BBVA México,17375.005919220002,prestamos_interb,2026-02,BBVA México_prestamos_interb_2026-02
+BBVA México,17649.69138879,prestamos_interb,2026-03,BBVA México_prestamos_interb_2026-03
+BBVA México,148421.35851328,titulos_credito,2025-03,BBVA México_titulos_credito_2025-03
+BBVA México,177077.24505432998,titulos_credito,2026-02,BBVA México_titulos_credito_2026-02
+BBVA México,175556.39262163002,titulos_credito,2026-03,BBVA México_titulos_credito_2026-03
+BIAfirme,23.05487,captacion_total,2025-03,BIAfirme_captacion_total_2025-03
+BIAfirme,19.422273,captacion_total,2026-02,BIAfirme_captacion_total_2026-02
+BIAfirme,20.204339,captacion_total,2026-03,BIAfirme_captacion_total_2026-03
+BIAfirme,0.0,cuenta_global,2025-03,BIAfirme_cuenta_global_2025-03
+BIAfirme,0.0,cuenta_global,2026-02,BIAfirme_cuenta_global_2026-02
+BIAfirme,0.0,cuenta_global,2026-03,BIAfirme_cuenta_global_2026-03
+BIAfirme,23.05487,dep_exigibilidad,2025-03,BIAfirme_dep_exigibilidad_2025-03
+BIAfirme,19.422273,dep_exigibilidad,2026-02,BIAfirme_dep_exigibilidad_2026-02
+BIAfirme,20.204339,dep_exigibilidad,2026-03,BIAfirme_dep_exigibilidad_2026-03
+BIAfirme,0.0,dep_plazo_dinero,2025-03,BIAfirme_dep_plazo_dinero_2025-03
+BIAfirme,0.0,dep_plazo_dinero,2026-02,BIAfirme_dep_plazo_dinero_2026-02
+BIAfirme,0.0,dep_plazo_dinero,2026-03,BIAfirme_dep_plazo_dinero_2026-03
+BIAfirme,0.0,dep_plazo_publico,2025-03,BIAfirme_dep_plazo_publico_2025-03
+BIAfirme,0.0,dep_plazo_publico,2026-02,BIAfirme_dep_plazo_publico_2026-02
+BIAfirme,0.0,dep_plazo_publico,2026-03,BIAfirme_dep_plazo_publico_2026-03
+BIAfirme,0.0,prestamos_interb,2025-03,BIAfirme_prestamos_interb_2025-03
+BIAfirme,0.0,prestamos_interb,2026-02,BIAfirme_prestamos_interb_2026-02
+BIAfirme,0.0,prestamos_interb,2026-03,BIAfirme_prestamos_interb_2026-03
+BIAfirme,0.0,titulos_credito,2025-03,BIAfirme_titulos_credito_2025-03
+BIAfirme,0.0,titulos_credito,2026-02,BIAfirme_titulos_credito_2026-02
+BIAfirme,0.0,titulos_credito,2026-03,BIAfirme_titulos_credito_2026-03
+BNP Paribas México,0.0,captacion_total,2025-03,BNP Paribas México_captacion_total_2025-03
+BNP Paribas México,0.0,captacion_total,2026-02,BNP Paribas México_captacion_total_2026-02
+BNP Paribas México,0.0,captacion_total,2026-03,BNP Paribas México_captacion_total_2026-03
+BNP Paribas México,0.0,cuenta_global,2025-03,BNP Paribas México_cuenta_global_2025-03
+BNP Paribas México,0.0,cuenta_global,2026-02,BNP Paribas México_cuenta_global_2026-02
+BNP Paribas México,0.0,cuenta_global,2026-03,BNP Paribas México_cuenta_global_2026-03
+BNP Paribas México,0.0,dep_exigibilidad,2025-03,BNP Paribas México_dep_exigibilidad_2025-03
+BNP Paribas México,0.0,dep_exigibilidad,2026-02,BNP Paribas México_dep_exigibilidad_2026-02
+BNP Paribas México,0.0,dep_exigibilidad,2026-03,BNP Paribas México_dep_exigibilidad_2026-03
+BNP Paribas México,0.0,dep_plazo_dinero,2025-03,BNP Paribas México_dep_plazo_dinero_2025-03
+BNP Paribas México,0.0,dep_plazo_dinero,2026-02,BNP Paribas México_dep_plazo_dinero_2026-02
+BNP Paribas México,0.0,dep_plazo_dinero,2026-03,BNP Paribas México_dep_plazo_dinero_2026-03
+BNP Paribas México,0.0,dep_plazo_publico,2025-03,BNP Paribas México_dep_plazo_publico_2025-03
+BNP Paribas México,0.0,dep_plazo_publico,2026-02,BNP Paribas México_dep_plazo_publico_2026-02
+BNP Paribas México,0.0,dep_plazo_publico,2026-03,BNP Paribas México_dep_plazo_publico_2026-03
+BNP Paribas México,0.0,prestamos_interb,2025-03,BNP Paribas México_prestamos_interb_2025-03
+BNP Paribas México,0.0,prestamos_interb,2026-02,BNP Paribas México_prestamos_interb_2026-02
+BNP Paribas México,0.0,prestamos_interb,2026-03,BNP Paribas México_prestamos_interb_2026-03
+BNP Paribas México,0.0,titulos_credito,2025-03,BNP Paribas México_titulos_credito_2025-03
+BNP Paribas México,0.0,titulos_credito,2026-02,BNP Paribas México_titulos_credito_2026-02
+BNP Paribas México,0.0,titulos_credito,2026-03,BNP Paribas México_titulos_credito_2026-03
+BanCoppel,143913.22246452,captacion_total,2025-03,BanCoppel_captacion_total_2025-03
+BanCoppel,144994.53213965998,captacion_total,2026-02,BanCoppel_captacion_total_2026-02
+BanCoppel,145235.34801397,captacion_total,2026-03,BanCoppel_captacion_total_2026-03
+BanCoppel,642.77784812,cuenta_global,2025-03,BanCoppel_cuenta_global_2025-03
+BanCoppel,724.3407700800001,cuenta_global,2026-02,BanCoppel_cuenta_global_2026-02
+BanCoppel,740.65788382,cuenta_global,2026-03,BanCoppel_cuenta_global_2026-03
+BanCoppel,133335.31235214998,dep_exigibilidad,2025-03,BanCoppel_dep_exigibilidad_2025-03
+BanCoppel,135281.48679581,dep_exigibilidad,2026-02,BanCoppel_dep_exigibilidad_2026-02
+BanCoppel,135154.26978512,dep_exigibilidad,2026-03,BanCoppel_dep_exigibilidad_2026-03
+BanCoppel,0.0,dep_plazo_dinero,2025-03,BanCoppel_dep_plazo_dinero_2025-03
+BanCoppel,0.0,dep_plazo_dinero,2026-02,BanCoppel_dep_plazo_dinero_2026-02
+BanCoppel,0.0,dep_plazo_dinero,2026-03,BanCoppel_dep_plazo_dinero_2026-03
+BanCoppel,4882.6188936300005,dep_plazo_publico,2025-03,BanCoppel_dep_plazo_publico_2025-03
+BanCoppel,4538.8656941,dep_plazo_publico,2026-02,BanCoppel_dep_plazo_publico_2026-02
+BanCoppel,4612.84678616,dep_plazo_publico,2026-03,BanCoppel_dep_plazo_publico_2026-03
+BanCoppel,5052.5133706199995,prestamos_interb,2025-03,BanCoppel_prestamos_interb_2025-03
+BanCoppel,4449.83887967,prestamos_interb,2026-02,BanCoppel_prestamos_interb_2026-02
+BanCoppel,4727.57355887,prestamos_interb,2026-03,BanCoppel_prestamos_interb_2026-03
+BanCoppel,0.0,titulos_credito,2025-03,BanCoppel_titulos_credito_2025-03
+BanCoppel,0.0,titulos_credito,2026-02,BanCoppel_titulos_credito_2026-02
+BanCoppel,0.0,titulos_credito,2026-03,BanCoppel_titulos_credito_2026-03
+Banamex,748557.2702619701,captacion_total,2025-03,Banamex_captacion_total_2025-03
+Banamex,778483.17597988,captacion_total,2026-02,Banamex_captacion_total_2026-02
+Banamex,786754.60827022,captacion_total,2026-03,Banamex_captacion_total_2026-03
+Banamex,8328.64863162,cuenta_global,2025-03,Banamex_cuenta_global_2025-03
+Banamex,8867.3159546,cuenta_global,2026-02,Banamex_cuenta_global_2026-02
+Banamex,9003.7308865,cuenta_global,2026-03,Banamex_cuenta_global_2026-03
+Banamex,538943.25117953,dep_exigibilidad,2025-03,Banamex_dep_exigibilidad_2025-03
+Banamex,548568.60683363,dep_exigibilidad,2026-02,Banamex_dep_exigibilidad_2026-02
+Banamex,555318.1843605799,dep_exigibilidad,2026-03,Banamex_dep_exigibilidad_2026-03
+Banamex,59708.16837151,dep_plazo_dinero,2025-03,Banamex_dep_plazo_dinero_2025-03
+Banamex,91503.11711058,dep_plazo_dinero,2026-02,Banamex_dep_plazo_dinero_2026-02
+Banamex,91228.65182511999,dep_plazo_dinero,2026-03,Banamex_dep_plazo_dinero_2026-03
+Banamex,116535.11480552,dep_plazo_publico,2025-03,Banamex_dep_plazo_publico_2025-03
+Banamex,128706.10588475,dep_plazo_publico,2026-02,Banamex_dep_plazo_publico_2026-02
+Banamex,130334.41427005001,dep_plazo_publico,2026-03,Banamex_dep_plazo_publico_2026-03
+Banamex,25042.087273790003,prestamos_interb,2025-03,Banamex_prestamos_interb_2025-03
+Banamex,838.0301963200001,prestamos_interb,2026-02,Banamex_prestamos_interb_2026-02
+Banamex,869.62692797,prestamos_interb,2026-03,Banamex_prestamos_interb_2026-03
+Banamex,0.0,titulos_credito,2025-03,Banamex_titulos_credito_2025-03
+Banamex,0.0,titulos_credito,2026-02,Banamex_titulos_credito_2026-02
+Banamex,0.0,titulos_credito,2026-03,Banamex_titulos_credito_2026-03
+Banco Azteca,236630.25248542998,captacion_total,2025-03,Banco Azteca_captacion_total_2025-03
+Banco Azteca,246321.99603904,captacion_total,2026-02,Banco Azteca_captacion_total_2026-02
+Banco Azteca,240361.2268855,captacion_total,2026-03,Banco Azteca_captacion_total_2026-03
+Banco Azteca,0.0,cuenta_global,2025-03,Banco Azteca_cuenta_global_2025-03
+Banco Azteca,0.0,cuenta_global,2026-02,Banco Azteca_cuenta_global_2026-02
+Banco Azteca,0.0,cuenta_global,2026-03,Banco Azteca_cuenta_global_2026-03
+Banco Azteca,183791.08305636,dep_exigibilidad,2025-03,Banco Azteca_dep_exigibilidad_2025-03
+Banco Azteca,188803.70686905,dep_exigibilidad,2026-02,Banco Azteca_dep_exigibilidad_2026-02
+Banco Azteca,188253.30864935002,dep_exigibilidad,2026-03,Banco Azteca_dep_exigibilidad_2026-03
+Banco Azteca,0.0,dep_plazo_dinero,2025-03,Banco Azteca_dep_plazo_dinero_2025-03
+Banco Azteca,0.0,dep_plazo_dinero,2026-02,Banco Azteca_dep_plazo_dinero_2026-02
+Banco Azteca,0.0,dep_plazo_dinero,2026-03,Banco Azteca_dep_plazo_dinero_2026-03
+Banco Azteca,52839.169429069996,dep_plazo_publico,2025-03,Banco Azteca_dep_plazo_publico_2025-03
+Banco Azteca,57068.11541999,dep_plazo_publico,2026-02,Banco Azteca_dep_plazo_publico_2026-02
+Banco Azteca,52107.91823615,dep_plazo_publico,2026-03,Banco Azteca_dep_plazo_publico_2026-03
+Banco Azteca,0.0,prestamos_interb,2025-03,Banco Azteca_prestamos_interb_2025-03
+Banco Azteca,450.17375,prestamos_interb,2026-02,Banco Azteca_prestamos_interb_2026-02
+Banco Azteca,0.0,prestamos_interb,2026-03,Banco Azteca_prestamos_interb_2026-03
+Banco Azteca,0.0,titulos_credito,2025-03,Banco Azteca_titulos_credito_2025-03
+Banco Azteca,0.0,titulos_credito,2026-02,Banco Azteca_titulos_credito_2026-02
+Banco Azteca,0.0,titulos_credito,2026-03,Banco Azteca_titulos_credito_2026-03
+Banco Base,33714.011039,captacion_total,2025-03,Banco Base_captacion_total_2025-03
+Banco Base,32664.119921999998,captacion_total,2026-02,Banco Base_captacion_total_2026-02
+Banco Base,32948.705239,captacion_total,2026-03,Banco Base_captacion_total_2026-03
+Banco Base,40.301564,cuenta_global,2025-03,Banco Base_cuenta_global_2025-03
+Banco Base,34.477399,cuenta_global,2026-02,Banco Base_cuenta_global_2026-02
+Banco Base,34.595514,cuenta_global,2026-03,Banco Base_cuenta_global_2026-03
+Banco Base,18728.636946,dep_exigibilidad,2025-03,Banco Base_dep_exigibilidad_2025-03
+Banco Base,19513.988928,dep_exigibilidad,2026-02,Banco Base_dep_exigibilidad_2026-02
+Banco Base,20176.828488,dep_exigibilidad,2026-03,Banco Base_dep_exigibilidad_2026-03
+Banco Base,2143.737824,dep_plazo_dinero,2025-03,Banco Base_dep_plazo_dinero_2025-03
+Banco Base,1743.213618,dep_plazo_dinero,2026-02,Banco Base_dep_plazo_dinero_2026-02
+Banco Base,1644.14615,dep_plazo_dinero,2026-03,Banco Base_dep_plazo_dinero_2026-03
+Banco Base,12686.788093,dep_plazo_publico,2025-03,Banco Base_dep_plazo_publico_2025-03
+Banco Base,11300.751085,dep_plazo_publico,2026-02,Banco Base_dep_plazo_publico_2026-02
+Banco Base,11016.123695,dep_plazo_publico,2026-03,Banco Base_dep_plazo_publico_2026-03
+Banco Base,114.546612,prestamos_interb,2025-03,Banco Base_prestamos_interb_2025-03
+Banco Base,71.688892,prestamos_interb,2026-02,Banco Base_prestamos_interb_2026-02
+Banco Base,77.011392,prestamos_interb,2026-03,Banco Base_prestamos_interb_2026-03
+Banco Base,0.0,titulos_credito,2025-03,Banco Base_titulos_credito_2025-03
+Banco Base,0.0,titulos_credito,2026-02,Banco Base_titulos_credito_2026-02
+Banco Base,0.0,titulos_credito,2026-03,Banco Base_titulos_credito_2026-03
+Banco Bineo,36.32377665,captacion_total,2025-03,Banco Bineo_captacion_total_2025-03
+Banco Bineo,22.18352649,captacion_total,2026-02,Banco Bineo_captacion_total_2026-02
+Banco Bineo,21.04842527,captacion_total,2026-03,Banco Bineo_captacion_total_2026-03
+Banco Bineo,0.0,cuenta_global,2025-03,Banco Bineo_cuenta_global_2025-03
+Banco Bineo,0.0,cuenta_global,2026-02,Banco Bineo_cuenta_global_2026-02
+Banco Bineo,0.0,cuenta_global,2026-03,Banco Bineo_cuenta_global_2026-03
+Banco Bineo,36.32377665,dep_exigibilidad,2025-03,Banco Bineo_dep_exigibilidad_2025-03
+Banco Bineo,22.18352649,dep_exigibilidad,2026-02,Banco Bineo_dep_exigibilidad_2026-02
+Banco Bineo,21.04842527,dep_exigibilidad,2026-03,Banco Bineo_dep_exigibilidad_2026-03
+Banco Bineo,0.0,dep_plazo_dinero,2025-03,Banco Bineo_dep_plazo_dinero_2025-03
+Banco Bineo,0.0,dep_plazo_dinero,2026-02,Banco Bineo_dep_plazo_dinero_2026-02
+Banco Bineo,0.0,dep_plazo_dinero,2026-03,Banco Bineo_dep_plazo_dinero_2026-03
+Banco Bineo,0.0,dep_plazo_publico,2025-03,Banco Bineo_dep_plazo_publico_2025-03
+Banco Bineo,0.0,dep_plazo_publico,2026-02,Banco Bineo_dep_plazo_publico_2026-02
+Banco Bineo,0.0,dep_plazo_publico,2026-03,Banco Bineo_dep_plazo_publico_2026-03
+Banco Bineo,0.0,prestamos_interb,2025-03,Banco Bineo_prestamos_interb_2025-03
+Banco Bineo,0.0,prestamos_interb,2026-02,Banco Bineo_prestamos_interb_2026-02
+Banco Bineo,0.0,prestamos_interb,2026-03,Banco Bineo_prestamos_interb_2026-03
+Banco Bineo,0.0,titulos_credito,2025-03,Banco Bineo_titulos_credito_2025-03
+Banco Bineo,0.0,titulos_credito,2026-02,Banco Bineo_titulos_credito_2026-02
+Banco Bineo,0.0,titulos_credito,2026-03,Banco Bineo_titulos_credito_2026-03
+Banco Plata,0.0,captacion_total,2025-03,Banco Plata_captacion_total_2025-03
+Banco Plata,0.0,captacion_total,2026-02,Banco Plata_captacion_total_2026-02
+Banco Plata,14304.495095999999,captacion_total,2026-03,Banco Plata_captacion_total_2026-03
+Banco Plata,0.0,cuenta_global,2025-03,Banco Plata_cuenta_global_2025-03
+Banco Plata,0.0,cuenta_global,2026-02,Banco Plata_cuenta_global_2026-02
+Banco Plata,0.0,cuenta_global,2026-03,Banco Plata_cuenta_global_2026-03
+Banco Plata,0.0,dep_exigibilidad,2025-03,Banco Plata_dep_exigibilidad_2025-03
+Banco Plata,0.0,dep_exigibilidad,2026-02,Banco Plata_dep_exigibilidad_2026-02
+Banco Plata,1369.086763,dep_exigibilidad,2026-03,Banco Plata_dep_exigibilidad_2026-03
+Banco Plata,0.0,dep_plazo_dinero,2025-03,Banco Plata_dep_plazo_dinero_2025-03
+Banco Plata,0.0,dep_plazo_dinero,2026-02,Banco Plata_dep_plazo_dinero_2026-02
+Banco Plata,0.0,dep_plazo_dinero,2026-03,Banco Plata_dep_plazo_dinero_2026-03
+Banco Plata,0.0,dep_plazo_publico,2025-03,Banco Plata_dep_plazo_publico_2025-03
+Banco Plata,0.0,dep_plazo_publico,2026-02,Banco Plata_dep_plazo_publico_2026-02
+Banco Plata,35.880839,dep_plazo_publico,2026-03,Banco Plata_dep_plazo_publico_2026-03
+Banco Plata,0.0,prestamos_interb,2025-03,Banco Plata_prestamos_interb_2025-03
+Banco Plata,0.0,prestamos_interb,2026-02,Banco Plata_prestamos_interb_2026-02
+Banco Plata,5157.930179,prestamos_interb,2026-03,Banco Plata_prestamos_interb_2026-03
+Banco Plata,0.0,titulos_credito,2025-03,Banco Plata_titulos_credito_2025-03
+Banco Plata,0.0,titulos_credito,2026-02,Banco Plata_titulos_credito_2026-02
+Banco Plata,7741.597315,titulos_credito,2026-03,Banco Plata_titulos_credito_2026-03
+Banco S3,1021.483518,captacion_total,2025-03,Banco S3_captacion_total_2025-03
+Banco S3,3357.93545,captacion_total,2026-02,Banco S3_captacion_total_2026-02
+Banco S3,4874.89749,captacion_total,2026-03,Banco S3_captacion_total_2026-03
+Banco S3,0.0,cuenta_global,2025-03,Banco S3_cuenta_global_2025-03
+Banco S3,0.0,cuenta_global,2026-02,Banco S3_cuenta_global_2026-02
+Banco S3,0.0,cuenta_global,2026-03,Banco S3_cuenta_global_2026-03
+Banco S3,1021.483509,dep_exigibilidad,2025-03,Banco S3_dep_exigibilidad_2025-03
+Banco S3,3357.93545,dep_exigibilidad,2026-02,Banco S3_dep_exigibilidad_2026-02
+Banco S3,4874.89749,dep_exigibilidad,2026-03,Banco S3_dep_exigibilidad_2026-03
+Banco S3,0.0,dep_plazo_dinero,2025-03,Banco S3_dep_plazo_dinero_2025-03
+Banco S3,0.0,dep_plazo_dinero,2026-02,Banco S3_dep_plazo_dinero_2026-02
+Banco S3,0.0,dep_plazo_dinero,2026-03,Banco S3_dep_plazo_dinero_2026-03
+Banco S3,0.0,dep_plazo_publico,2025-03,Banco S3_dep_plazo_publico_2025-03
+Banco S3,0.0,dep_plazo_publico,2026-02,Banco S3_dep_plazo_publico_2026-02
+Banco S3,0.0,dep_plazo_publico,2026-03,Banco S3_dep_plazo_publico_2026-03
+Banco S3,9e-06,prestamos_interb,2025-03,Banco S3_prestamos_interb_2025-03
+Banco S3,0.0,prestamos_interb,2026-02,Banco S3_prestamos_interb_2026-02
+Banco S3,0.0,prestamos_interb,2026-03,Banco S3_prestamos_interb_2026-03
+Banco S3,0.0,titulos_credito,2025-03,Banco S3_titulos_credito_2025-03
+Banco S3,0.0,titulos_credito,2026-02,Banco S3_titulos_credito_2026-02
+Banco S3,0.0,titulos_credito,2026-03,Banco S3_titulos_credito_2026-03
+Banco del Bajío,309987.26560672,captacion_total,2025-03,Banco del Bajío_captacion_total_2025-03
+Banco del Bajío,314683.04977874,captacion_total,2026-02,Banco del Bajío_captacion_total_2026-02
+Banco del Bajío,334773.17198005994,captacion_total,2026-03,Banco del Bajío_captacion_total_2026-03
+Banco del Bajío,204.77803264,cuenta_global,2025-03,Banco del Bajío_cuenta_global_2025-03
+Banco del Bajío,231.45149405,cuenta_global,2026-02,Banco del Bajío_cuenta_global_2026-02
+Banco del Bajío,206.06594066,cuenta_global,2026-03,Banco del Bajío_cuenta_global_2026-03
+Banco del Bajío,128603.07620839999,dep_exigibilidad,2025-03,Banco del Bajío_dep_exigibilidad_2025-03
+Banco del Bajío,134557.22667901,dep_exigibilidad,2026-02,Banco del Bajío_dep_exigibilidad_2026-02
+Banco del Bajío,138720.21416391002,dep_exigibilidad,2026-03,Banco del Bajío_dep_exigibilidad_2026-03
+Banco del Bajío,56048.47673579,dep_plazo_dinero,2025-03,Banco del Bajío_dep_plazo_dinero_2025-03
+Banco del Bajío,45890.71604358999,dep_plazo_dinero,2026-02,Banco del Bajío_dep_plazo_dinero_2026-02
+Banco del Bajío,57936.2146461,dep_plazo_dinero,2026-03,Banco del Bajío_dep_plazo_dinero_2026-03
+Banco del Bajío,75612.74188289,dep_plazo_publico,2025-03,Banco del Bajío_dep_plazo_publico_2025-03
+Banco del Bajío,83020.59461622,dep_plazo_publico,2026-02,Banco del Bajío_dep_plazo_publico_2026-02
+Banco del Bajío,86055.4019055,dep_plazo_publico,2026-03,Banco del Bajío_dep_plazo_publico_2026-03
+Banco del Bajío,49518.192747,prestamos_interb,2025-03,Banco del Bajío_prestamos_interb_2025-03
+Banco del Bajío,50983.060945870006,prestamos_interb,2026-02,Banco del Bajío_prestamos_interb_2026-02
+Banco del Bajío,51855.27532389,prestamos_interb,2026-03,Banco del Bajío_prestamos_interb_2026-03
+Banco del Bajío,0.0,titulos_credito,2025-03,Banco del Bajío_titulos_credito_2025-03
+Banco del Bajío,0.0,titulos_credito,2026-02,Banco del Bajío_titulos_credito_2026-02
+Banco del Bajío,0.0,titulos_credito,2026-03,Banco del Bajío_titulos_credito_2026-03
+Bancrea,43495.30756774,captacion_total,2025-03,Bancrea_captacion_total_2025-03
+Bancrea,51933.27546987,captacion_total,2026-02,Bancrea_captacion_total_2026-02
+Bancrea,54761.499054470005,captacion_total,2026-03,Bancrea_captacion_total_2026-03
+Bancrea,2.48954639,cuenta_global,2025-03,Bancrea_cuenta_global_2025-03
+Bancrea,4.67573121,cuenta_global,2026-02,Bancrea_cuenta_global_2026-02
+Bancrea,4.67573121,cuenta_global,2026-03,Bancrea_cuenta_global_2026-03
+Bancrea,5410.54507715,dep_exigibilidad,2025-03,Bancrea_dep_exigibilidad_2025-03
+Bancrea,7013.17258104,dep_exigibilidad,2026-02,Bancrea_dep_exigibilidad_2026-02
+Bancrea,7865.53071623,dep_exigibilidad,2026-03,Bancrea_dep_exigibilidad_2026-03
+Bancrea,0.0,dep_plazo_dinero,2025-03,Bancrea_dep_plazo_dinero_2025-03
+Bancrea,401.44877777999994,dep_plazo_dinero,2026-02,Bancrea_dep_plazo_dinero_2026-02
+Bancrea,401.78266667,dep_plazo_dinero,2026-03,Bancrea_dep_plazo_dinero_2026-03
+Bancrea,31266.624528599998,dep_plazo_publico,2025-03,Bancrea_dep_plazo_publico_2025-03
+Bancrea,34995.1763098,dep_plazo_publico,2026-02,Bancrea_dep_plazo_publico_2026-02
+Bancrea,36219.71731418,dep_plazo_publico,2026-03,Bancrea_dep_plazo_publico_2026-03
+Bancrea,6815.648415600001,prestamos_interb,2025-03,Bancrea_prestamos_interb_2025-03
+Bancrea,9518.802070040001,prestamos_interb,2026-02,Bancrea_prestamos_interb_2026-02
+Bancrea,10269.79262618,prestamos_interb,2026-03,Bancrea_prestamos_interb_2026-03
+Bancrea,0.0,titulos_credito,2025-03,Bancrea_titulos_credito_2025-03
+Bancrea,0.0,titulos_credito,2026-02,Bancrea_titulos_credito_2026-02
+Bancrea,0.0,titulos_credito,2026-03,Bancrea_titulos_credito_2026-03
+Banfeliz (antes Forjadores),215.153158,captacion_total,2025-03,Banfeliz (antes Forjadores)_captacion_total_2025-03
+Banfeliz (antes Forjadores),339.401928,captacion_total,2026-02,Banfeliz (antes Forjadores)_captacion_total_2026-02
+Banfeliz (antes Forjadores),348.800371,captacion_total,2026-03,Banfeliz (antes Forjadores)_captacion_total_2026-03
+Banfeliz (antes Forjadores),0.0,cuenta_global,2025-03,Banfeliz (antes Forjadores)_cuenta_global_2025-03
+Banfeliz (antes Forjadores),0.0,cuenta_global,2026-02,Banfeliz (antes Forjadores)_cuenta_global_2026-02
+Banfeliz (antes Forjadores),0.0,cuenta_global,2026-03,Banfeliz (antes Forjadores)_cuenta_global_2026-03
+Banfeliz (antes Forjadores),0.0,dep_exigibilidad,2025-03,Banfeliz (antes Forjadores)_dep_exigibilidad_2025-03
+Banfeliz (antes Forjadores),0.0,dep_exigibilidad,2026-02,Banfeliz (antes Forjadores)_dep_exigibilidad_2026-02
+Banfeliz (antes Forjadores),0.0,dep_exigibilidad,2026-03,Banfeliz (antes Forjadores)_dep_exigibilidad_2026-03
+Banfeliz (antes Forjadores),0.0,dep_plazo_dinero,2025-03,Banfeliz (antes Forjadores)_dep_plazo_dinero_2025-03
+Banfeliz (antes Forjadores),0.0,dep_plazo_dinero,2026-02,Banfeliz (antes Forjadores)_dep_plazo_dinero_2026-02
+Banfeliz (antes Forjadores),0.0,dep_plazo_dinero,2026-03,Banfeliz (antes Forjadores)_dep_plazo_dinero_2026-03
+Banfeliz (antes Forjadores),215.153158,dep_plazo_publico,2025-03,Banfeliz (antes Forjadores)_dep_plazo_publico_2025-03
+Banfeliz (antes Forjadores),339.401928,dep_plazo_publico,2026-02,Banfeliz (antes Forjadores)_dep_plazo_publico_2026-02
+Banfeliz (antes Forjadores),348.800371,dep_plazo_publico,2026-03,Banfeliz (antes Forjadores)_dep_plazo_publico_2026-03
+Banfeliz (antes Forjadores),0.0,prestamos_interb,2025-03,Banfeliz (antes Forjadores)_prestamos_interb_2025-03
+Banfeliz (antes Forjadores),0.0,prestamos_interb,2026-02,Banfeliz (antes Forjadores)_prestamos_interb_2026-02
+Banfeliz (antes Forjadores),0.0,prestamos_interb,2026-03,Banfeliz (antes Forjadores)_prestamos_interb_2026-03
+Banfeliz (antes Forjadores),0.0,titulos_credito,2025-03,Banfeliz (antes Forjadores)_titulos_credito_2025-03
+Banfeliz (antes Forjadores),0.0,titulos_credito,2026-02,Banfeliz (antes Forjadores)_titulos_credito_2026-02
+Banfeliz (antes Forjadores),0.0,titulos_credito,2026-03,Banfeliz (antes Forjadores)_titulos_credito_2026-03
+Bank of America,52033.297420999996,captacion_total,2025-03,Bank of America_captacion_total_2025-03
+Bank of America,105008.801757,captacion_total,2026-02,Bank of America_captacion_total_2026-02
+Bank of America,69321.502337,captacion_total,2026-03,Bank of America_captacion_total_2026-03
+Bank of America,0.0,cuenta_global,2025-03,Bank of America_cuenta_global_2025-03
+Bank of America,0.0,cuenta_global,2026-02,Bank of America_cuenta_global_2026-02
+Bank of America,0.0,cuenta_global,2026-03,Bank of America_cuenta_global_2026-03
+Bank of America,41996.520655,dep_exigibilidad,2025-03,Bank of America_dep_exigibilidad_2025-03
+Bank of America,50395.242022,dep_exigibilidad,2026-02,Bank of America_dep_exigibilidad_2026-02
+Bank of America,52457.728257,dep_exigibilidad,2026-03,Bank of America_dep_exigibilidad_2026-03
+Bank of America,7634.937795,dep_plazo_dinero,2025-03,Bank of America_dep_plazo_dinero_2025-03
+Bank of America,52543.270029,dep_plazo_dinero,2026-02,Bank of America_dep_plazo_dinero_2026-02
+Bank of America,15102.585639,dep_plazo_dinero,2026-03,Bank of America_dep_plazo_dinero_2026-03
+Bank of America,1001.488971,dep_plazo_publico,2025-03,Bank of America_dep_plazo_publico_2025-03
+Bank of America,2070.289706,dep_plazo_publico,2026-02,Bank of America_dep_plazo_publico_2026-02
+Bank of America,1761.188441,dep_plazo_publico,2026-03,Bank of America_dep_plazo_publico_2026-03
+Bank of America,1400.35,prestamos_interb,2025-03,Bank of America_prestamos_interb_2025-03
+Bank of America,0.0,prestamos_interb,2026-02,Bank of America_prestamos_interb_2026-02
+Bank of America,0.0,prestamos_interb,2026-03,Bank of America_prestamos_interb_2026-03
+Bank of America,0.0,titulos_credito,2025-03,Bank of America_titulos_credito_2025-03
+Bank of America,0.0,titulos_credito,2026-02,Bank of America_titulos_credito_2026-02
+Bank of America,0.0,titulos_credito,2026-03,Bank of America_titulos_credito_2026-03
+Bank of China,6611.860445689999,captacion_total,2025-03,Bank of China_captacion_total_2025-03
+Bank of China,4982.12520691,captacion_total,2026-02,Bank of China_captacion_total_2026-02
+Bank of China,4421.5182648400005,captacion_total,2026-03,Bank of China_captacion_total_2026-03
+Bank of China,0.0,cuenta_global,2025-03,Bank of China_cuenta_global_2025-03
+Bank of China,0.0,cuenta_global,2026-02,Bank of China_cuenta_global_2026-02
+Bank of China,0.0,cuenta_global,2026-03,Bank of China_cuenta_global_2026-03
+Bank of China,1348.10411669,dep_exigibilidad,2025-03,Bank of China_dep_exigibilidad_2025-03
+Bank of China,292.98622404,dep_exigibilidad,2026-02,Bank of China_dep_exigibilidad_2026-02
+Bank of China,777.91521867,dep_exigibilidad,2026-03,Bank of China_dep_exigibilidad_2026-03
+Bank of China,0.0,dep_plazo_dinero,2025-03,Bank of China_dep_plazo_dinero_2025-03
+Bank of China,0.0,dep_plazo_dinero,2026-02,Bank of China_dep_plazo_dinero_2026-02
+Bank of China,0.0,dep_plazo_dinero,2026-03,Bank of China_dep_plazo_dinero_2026-03
+Bank of China,0.0,dep_plazo_publico,2025-03,Bank of China_dep_plazo_publico_2025-03
+Bank of China,0.0,dep_plazo_publico,2026-02,Bank of China_dep_plazo_publico_2026-02
+Bank of China,0.0,dep_plazo_publico,2026-03,Bank of China_dep_plazo_publico_2026-03
+Bank of China,5263.756329,prestamos_interb,2025-03,Bank of China_prestamos_interb_2025-03
+Bank of China,4689.13898287,prestamos_interb,2026-02,Bank of China_prestamos_interb_2026-02
+Bank of China,3643.60304617,prestamos_interb,2026-03,Bank of China_prestamos_interb_2026-03
+Bank of China,0.0,titulos_credito,2025-03,Bank of China_titulos_credito_2025-03
+Bank of China,0.0,titulos_credito,2026-02,Bank of China_titulos_credito_2026-02
+Bank of China,0.0,titulos_credito,2026-03,Bank of China_titulos_credito_2026-03
+Banorte,1208627.8219036302,captacion_total,2025-03,Banorte_captacion_total_2025-03
+Banorte,1252004.73818824,captacion_total,2026-02,Banorte_captacion_total_2026-02
+Banorte,1266843.5961311,captacion_total,2026-03,Banorte_captacion_total_2026-03
+Banorte,4205.042692139999,cuenta_global,2025-03,Banorte_cuenta_global_2025-03
+Banorte,4523.92003737,cuenta_global,2026-02,Banorte_cuenta_global_2026-02
+Banorte,4594.14833543,cuenta_global,2026-03,Banorte_cuenta_global_2026-03
+Banorte,792527.98166566,dep_exigibilidad,2025-03,Banorte_dep_exigibilidad_2025-03
+Banorte,808469.06797639,dep_exigibilidad,2026-02,Banorte_dep_exigibilidad_2026-02
+Banorte,823297.2873639,dep_exigibilidad,2026-03,Banorte_dep_exigibilidad_2026-03
+Banorte,6120.80762971,dep_plazo_dinero,2025-03,Banorte_dep_plazo_dinero_2025-03
+Banorte,6198.60377542,dep_plazo_dinero,2026-02,Banorte_dep_plazo_dinero_2026-02
+Banorte,6304.13886621,dep_plazo_dinero,2026-03,Banorte_dep_plazo_dinero_2026-03
+Banorte,358988.14561511,dep_plazo_publico,2025-03,Banorte_dep_plazo_publico_2025-03
+Banorte,387782.77779722,dep_plazo_publico,2026-02,Banorte_dep_plazo_publico_2026-02
+Banorte,387393.53753572,dep_plazo_publico,2026-03,Banorte_dep_plazo_publico_2026-03
+Banorte,12661.05997435,prestamos_interb,2025-03,Banorte_prestamos_interb_2025-03
+Banorte,7801.767378760001,prestamos_interb,2026-02,Banorte_prestamos_interb_2026-02
+Banorte,7836.83533975,prestamos_interb,2026-03,Banorte_prestamos_interb_2026-03
+Banorte,34124.78432666,titulos_credito,2025-03,Banorte_titulos_credito_2025-03
+Banorte,37228.601223080004,titulos_credito,2026-02,Banorte_titulos_credito_2026-02
+Banorte,37417.64869009,titulos_credito,2026-03,Banorte_titulos_credito_2026-03
+Banregio,185972.57303223,captacion_total,2025-03,Banregio_captacion_total_2025-03
+Banregio,190778.63960955,captacion_total,2026-02,Banregio_captacion_total_2026-02
+Banregio,196263.81952073998,captacion_total,2026-03,Banregio_captacion_total_2026-03
+Banregio,40.7602856,cuenta_global,2025-03,Banregio_cuenta_global_2025-03
+Banregio,52.34477754,cuenta_global,2026-02,Banregio_cuenta_global_2026-02
+Banregio,54.68595975,cuenta_global,2026-03,Banregio_cuenta_global_2026-03
+Banregio,80032.06226528999,dep_exigibilidad,2025-03,Banregio_dep_exigibilidad_2025-03
+Banregio,76481.77655188,dep_exigibilidad,2026-02,Banregio_dep_exigibilidad_2026-02
+Banregio,79722.98617291001,dep_exigibilidad,2026-03,Banregio_dep_exigibilidad_2026-03
+Banregio,1098.17153776,dep_plazo_dinero,2025-03,Banregio_dep_plazo_dinero_2025-03
+Banregio,2303.25182775,dep_plazo_dinero,2026-02,Banregio_dep_plazo_dinero_2026-02
+Banregio,3116.70139458,dep_plazo_dinero,2026-03,Banregio_dep_plazo_dinero_2026-03
+Banregio,96849.27393950999,dep_plazo_publico,2025-03,Banregio_dep_plazo_publico_2025-03
+Banregio,103178.30625921,dep_plazo_publico,2026-02,Banregio_dep_plazo_publico_2026-02
+Banregio,103756.26859767,dep_plazo_publico,2026-03,Banregio_dep_plazo_publico_2026-03
+Banregio,3363.12295795,prestamos_interb,2025-03,Banregio_prestamos_interb_2025-03
+Banregio,4059.94371263,prestamos_interb,2026-02,Banregio_prestamos_interb_2026-02
+Banregio,3734.87236278,prestamos_interb,2026-03,Banregio_prestamos_interb_2026-03
+Banregio,4589.1820461199995,titulos_credito,2025-03,Banregio_titulos_credito_2025-03
+Banregio,4703.01648054,titulos_credito,2026-02,Banregio_titulos_credito_2026-02
+Banregio,5878.30503305,titulos_credito,2026-03,Banregio_titulos_credito_2026-03
+Bansí,43413.450366000005,captacion_total,2025-03,Bansí_captacion_total_2025-03
+Bansí,38532.1714,captacion_total,2026-02,Bansí_captacion_total_2026-02
+Bansí,37314.525546,captacion_total,2026-03,Bansí_captacion_total_2026-03
+Bansí,0.275903,cuenta_global,2025-03,Bansí_cuenta_global_2025-03
+Bansí,0.359833,cuenta_global,2026-02,Bansí_cuenta_global_2026-02
+Bansí,0.439679,cuenta_global,2026-03,Bansí_cuenta_global_2026-03
+Bansí,15457.860838,dep_exigibilidad,2025-03,Bansí_dep_exigibilidad_2025-03
+Bansí,11967.987276,dep_exigibilidad,2026-02,Bansí_dep_exigibilidad_2026-02
+Bansí,11664.849851,dep_exigibilidad,2026-03,Bansí_dep_exigibilidad_2026-03
+Bansí,0.0,dep_plazo_dinero,2025-03,Bansí_dep_plazo_dinero_2025-03
+Bansí,0.0,dep_plazo_dinero,2026-02,Bansí_dep_plazo_dinero_2026-02
+Bansí,0.0,dep_plazo_dinero,2026-03,Bansí_dep_plazo_dinero_2026-03
+Bansí,27739.448677,dep_plazo_publico,2025-03,Bansí_dep_plazo_publico_2025-03
+Bansí,26385.147172,dep_plazo_publico,2026-02,Bansí_dep_plazo_publico_2026-02
+Bansí,25476.578655,dep_plazo_publico,2026-03,Bansí_dep_plazo_publico_2026-03
+Bansí,215.864948,prestamos_interb,2025-03,Bansí_prestamos_interb_2025-03
+Bansí,178.677119,prestamos_interb,2026-02,Bansí_prestamos_interb_2026-02
+Bansí,172.657361,prestamos_interb,2026-03,Bansí_prestamos_interb_2026-03
+Bansí,0.0,titulos_credito,2025-03,Bansí_titulos_credito_2025-03
+Bansí,0.0,titulos_credito,2026-02,Bansí_titulos_credito_2026-02
+Bansí,0.0,titulos_credito,2026-03,Bansí_titulos_credito_2026-03
+Barclays,1064.071824,captacion_total,2025-03,Barclays_captacion_total_2025-03
+Barclays,0.0,captacion_total,2026-02,Barclays_captacion_total_2026-02
+Barclays,2171.911284,captacion_total,2026-03,Barclays_captacion_total_2026-03
+Barclays,0.0,cuenta_global,2025-03,Barclays_cuenta_global_2025-03
+Barclays,0.0,cuenta_global,2026-02,Barclays_cuenta_global_2026-02
+Barclays,0.0,cuenta_global,2026-03,Barclays_cuenta_global_2026-03
+Barclays,0.0,dep_exigibilidad,2025-03,Barclays_dep_exigibilidad_2025-03
+Barclays,0.0,dep_exigibilidad,2026-02,Barclays_dep_exigibilidad_2026-02
+Barclays,0.0,dep_exigibilidad,2026-03,Barclays_dep_exigibilidad_2026-03
+Barclays,0.0,dep_plazo_dinero,2025-03,Barclays_dep_plazo_dinero_2025-03
+Barclays,0.0,dep_plazo_dinero,2026-02,Barclays_dep_plazo_dinero_2026-02
+Barclays,0.0,dep_plazo_dinero,2026-03,Barclays_dep_plazo_dinero_2026-03
+Barclays,0.0,dep_plazo_publico,2025-03,Barclays_dep_plazo_publico_2025-03
+Barclays,0.0,dep_plazo_publico,2026-02,Barclays_dep_plazo_publico_2026-02
+Barclays,0.0,dep_plazo_publico,2026-03,Barclays_dep_plazo_publico_2026-03
+Barclays,1064.071824,prestamos_interb,2025-03,Barclays_prestamos_interb_2025-03
+Barclays,0.0,prestamos_interb,2026-02,Barclays_prestamos_interb_2026-02
+Barclays,2171.911284,prestamos_interb,2026-03,Barclays_prestamos_interb_2026-03
+Barclays,0.0,titulos_credito,2025-03,Barclays_titulos_credito_2025-03
+Barclays,0.0,titulos_credito,2026-02,Barclays_titulos_credito_2026-02
+Barclays,0.0,titulos_credito,2026-03,Barclays_titulos_credito_2026-03
+CIBanco,0.0,captacion_total,2025-03,CIBanco_captacion_total_2025-03
+CIBanco,0.0,captacion_total,2026-02,CIBanco_captacion_total_2026-02
+CIBanco,0.0,captacion_total,2026-03,CIBanco_captacion_total_2026-03
+CIBanco,96.634517,cuenta_global,2025-03,CIBanco_cuenta_global_2025-03
+CIBanco,0.0,cuenta_global,2026-02,CIBanco_cuenta_global_2026-02
+CIBanco,0.0,cuenta_global,2026-03,CIBanco_cuenta_global_2026-03
+CIBanco,0.0,dep_exigibilidad,2025-03,CIBanco_dep_exigibilidad_2025-03
+CIBanco,0.0,dep_exigibilidad,2026-02,CIBanco_dep_exigibilidad_2026-02
+CIBanco,0.0,dep_exigibilidad,2026-03,CIBanco_dep_exigibilidad_2026-03
+CIBanco,0.0,dep_plazo_dinero,2025-03,CIBanco_dep_plazo_dinero_2025-03
+CIBanco,0.0,dep_plazo_dinero,2026-02,CIBanco_dep_plazo_dinero_2026-02
+CIBanco,0.0,dep_plazo_dinero,2026-03,CIBanco_dep_plazo_dinero_2026-03
+CIBanco,0.0,dep_plazo_publico,2025-03,CIBanco_dep_plazo_publico_2025-03
+CIBanco,0.0,dep_plazo_publico,2026-02,CIBanco_dep_plazo_publico_2026-02
+CIBanco,0.0,dep_plazo_publico,2026-03,CIBanco_dep_plazo_publico_2026-03
+CIBanco,12.555693,prestamos_interb,2025-03,CIBanco_prestamos_interb_2025-03
+CIBanco,0.0,prestamos_interb,2026-02,CIBanco_prestamos_interb_2026-02
+CIBanco,0.0,prestamos_interb,2026-03,CIBanco_prestamos_interb_2026-03
+CIBanco,0.0,titulos_credito,2025-03,CIBanco_titulos_credito_2025-03
+CIBanco,0.0,titulos_credito,2026-02,CIBanco_titulos_credito_2026-02
+CIBanco,0.0,titulos_credito,2026-03,CIBanco_titulos_credito_2026-03
+Citi México,371394.09587078,captacion_total,2025-03,Citi México_captacion_total_2025-03
+Citi México,342736.41959721,captacion_total,2026-02,Citi México_captacion_total_2026-02
+Citi México,369512.28602135,captacion_total,2026-03,Citi México_captacion_total_2026-03
+Citi México,37.240295090000004,cuenta_global,2025-03,Citi México_cuenta_global_2025-03
+Citi México,49.392705119999995,cuenta_global,2026-02,Citi México_cuenta_global_2026-02
+Citi México,49.79446942,cuenta_global,2026-03,Citi México_cuenta_global_2026-03
+Citi México,245323.79540355,dep_exigibilidad,2025-03,Citi México_dep_exigibilidad_2025-03
+Citi México,227356.58688098998,dep_exigibilidad,2026-02,Citi México_dep_exigibilidad_2026-02
+Citi México,253723.73591829,dep_exigibilidad,2026-03,Citi México_dep_exigibilidad_2026-03
+Citi México,60414.80266917,dep_plazo_dinero,2025-03,Citi México_dep_plazo_dinero_2025-03
+Citi México,68019.67758355,dep_plazo_dinero,2026-02,Citi México_dep_plazo_dinero_2026-02
+Citi México,66788.03273875,dep_plazo_dinero,2026-03,Citi México_dep_plazo_dinero_2026-03
+Citi México,0.0,dep_plazo_publico,2025-03,Citi México_dep_plazo_publico_2025-03
+Citi México,0.0,dep_plazo_publico,2026-02,Citi México_dep_plazo_publico_2026-02
+Citi México,0.0,dep_plazo_publico,2026-03,Citi México_dep_plazo_publico_2026-03
+Citi México,61424.217747760005,prestamos_interb,2025-03,Citi México_prestamos_interb_2025-03
+Citi México,36306.047293769996,prestamos_interb,2026-02,Citi México_prestamos_interb_2026-02
+Citi México,37780.76839834,prestamos_interb,2026-03,Citi México_prestamos_interb_2026-03
+Citi México,4194.03975521,titulos_credito,2025-03,Citi México_titulos_credito_2025-03
+Citi México,11004.71513378,titulos_credito,2026-02,Citi México_titulos_credito_2026-02
+Citi México,11169.954496549999,titulos_credito,2026-03,Citi México_titulos_credito_2026-03
+Compartamos,38562.262797999996,captacion_total,2025-03,Compartamos_captacion_total_2025-03
+Compartamos,45805.683475,captacion_total,2026-02,Compartamos_captacion_total_2026-02
+Compartamos,44479.431523,captacion_total,2026-03,Compartamos_captacion_total_2026-03
+Compartamos,119.873535,cuenta_global,2025-03,Compartamos_cuenta_global_2025-03
+Compartamos,93.980338,cuenta_global,2026-02,Compartamos_cuenta_global_2026-02
+Compartamos,95.750807,cuenta_global,2026-03,Compartamos_cuenta_global_2026-03
+Compartamos,2563.615276,dep_exigibilidad,2025-03,Compartamos_dep_exigibilidad_2025-03
+Compartamos,3600.313536,dep_exigibilidad,2026-02,Compartamos_dep_exigibilidad_2026-02
+Compartamos,3753.205544,dep_exigibilidad,2026-03,Compartamos_dep_exigibilidad_2026-03
+Compartamos,0.0,dep_plazo_dinero,2025-03,Compartamos_dep_plazo_dinero_2025-03
+Compartamos,0.0,dep_plazo_dinero,2026-02,Compartamos_dep_plazo_dinero_2026-02
+Compartamos,0.0,dep_plazo_dinero,2026-03,Compartamos_dep_plazo_dinero_2026-03
+Compartamos,2208.710333,dep_plazo_publico,2025-03,Compartamos_dep_plazo_publico_2025-03
+Compartamos,2411.958698,dep_plazo_publico,2026-02,Compartamos_dep_plazo_publico_2026-02
+Compartamos,2434.145376,dep_plazo_publico,2026-03,Compartamos_dep_plazo_publico_2026-03
+Compartamos,20395.786297,prestamos_interb,2025-03,Compartamos_prestamos_interb_2025-03
+Compartamos,21269.480332,prestamos_interb,2026-02,Compartamos_prestamos_interb_2026-02
+Compartamos,20989.477644,prestamos_interb,2026-03,Compartamos_prestamos_interb_2026-03
+Compartamos,13274.277357,titulos_credito,2025-03,Compartamos_titulos_credito_2025-03
+Compartamos,18429.950571,titulos_credito,2026-02,Compartamos_titulos_credito_2026-02
+Compartamos,17206.852152,titulos_credito,2026-03,Compartamos_titulos_credito_2026-03
+Consubanco,19064.455171,captacion_total,2025-03,Consubanco_captacion_total_2025-03
+Consubanco,21194.791288,captacion_total,2026-02,Consubanco_captacion_total_2026-02
+Consubanco,21540.721372,captacion_total,2026-03,Consubanco_captacion_total_2026-03
+Consubanco,0.408479,cuenta_global,2025-03,Consubanco_cuenta_global_2025-03
+Consubanco,0.000808,cuenta_global,2026-02,Consubanco_cuenta_global_2026-02
+Consubanco,0.000812,cuenta_global,2026-03,Consubanco_cuenta_global_2026-03
+Consubanco,350.43467,dep_exigibilidad,2025-03,Consubanco_dep_exigibilidad_2025-03
+Consubanco,787.278153,dep_exigibilidad,2026-02,Consubanco_dep_exigibilidad_2026-02
+Consubanco,634.111681,dep_exigibilidad,2026-03,Consubanco_dep_exigibilidad_2026-03
+Consubanco,2428.007249,dep_plazo_dinero,2025-03,Consubanco_dep_plazo_dinero_2025-03
+Consubanco,3014.663838,dep_plazo_dinero,2026-02,Consubanco_dep_plazo_dinero_2026-02
+Consubanco,2814.750147,dep_plazo_dinero,2026-03,Consubanco_dep_plazo_dinero_2026-03
+Consubanco,13016.677371,dep_plazo_publico,2025-03,Consubanco_dep_plazo_publico_2025-03
+Consubanco,13802.622032,dep_plazo_publico,2026-02,Consubanco_dep_plazo_publico_2026-02
+Consubanco,14475.709207,dep_plazo_publico,2026-03,Consubanco_dep_plazo_publico_2026-03
+Consubanco,200.28093,prestamos_interb,2025-03,Consubanco_prestamos_interb_2025-03
+Consubanco,468.09184,prestamos_interb,2026-02,Consubanco_prestamos_interb_2026-02
+Consubanco,468.259579,prestamos_interb,2026-03,Consubanco_prestamos_interb_2026-03
+Consubanco,3068.646472,titulos_credito,2025-03,Consubanco_titulos_credito_2025-03
+Consubanco,3122.134617,titulos_credito,2026-02,Consubanco_titulos_credito_2026-02
+Consubanco,3147.889946,titulos_credito,2026-03,Consubanco_titulos_credito_2026-03
+Covalto,8145.40350317,captacion_total,2025-03,Covalto_captacion_total_2025-03
+Covalto,8341.47319248,captacion_total,2026-02,Covalto_captacion_total_2026-02
+Covalto,8793.47346001,captacion_total,2026-03,Covalto_captacion_total_2026-03
+Covalto,0.0,cuenta_global,2025-03,Covalto_cuenta_global_2025-03
+Covalto,1.3765296999999999,cuenta_global,2026-02,Covalto_cuenta_global_2026-02
+Covalto,1.3765296999999999,cuenta_global,2026-03,Covalto_cuenta_global_2026-03
+Covalto,2067.75295191,dep_exigibilidad,2025-03,Covalto_dep_exigibilidad_2025-03
+Covalto,989.85146473,dep_exigibilidad,2026-02,Covalto_dep_exigibilidad_2026-02
+Covalto,453.37292200999997,dep_exigibilidad,2026-03,Covalto_dep_exigibilidad_2026-03
+Covalto,20.857499899999997,dep_plazo_dinero,2025-03,Covalto_dep_plazo_dinero_2025-03
+Covalto,20.45983301,dep_plazo_dinero,2026-02,Covalto_dep_plazo_dinero_2026-02
+Covalto,20.619999670000002,dep_plazo_dinero,2026-03,Covalto_dep_plazo_dinero_2026-03
+Covalto,3227.5875311199998,dep_plazo_publico,2025-03,Covalto_dep_plazo_publico_2025-03
+Covalto,5899.58943448,dep_plazo_publico,2026-02,Covalto_dep_plazo_publico_2026-02
+Covalto,6615.88539355,dep_plazo_publico,2026-03,Covalto_dep_plazo_publico_2026-03
+Covalto,2829.2055202399997,prestamos_interb,2025-03,Covalto_prestamos_interb_2025-03
+Covalto,1430.1959305599999,prestamos_interb,2026-02,Covalto_prestamos_interb_2026-02
+Covalto,1702.2186150799998,prestamos_interb,2026-03,Covalto_prestamos_interb_2026-03
+Covalto,0.0,titulos_credito,2025-03,Covalto_titulos_credito_2025-03
+Covalto,0.0,titulos_credito,2026-02,Covalto_titulos_credito_2026-02
+Covalto,0.0,titulos_credito,2026-03,Covalto_titulos_credito_2026-03
+Credit Suisse,0.0,captacion_total,2025-03,Credit Suisse_captacion_total_2025-03
+Credit Suisse,0.0,captacion_total,2026-02,Credit Suisse_captacion_total_2026-02
+Credit Suisse,0.0,captacion_total,2026-03,Credit Suisse_captacion_total_2026-03
+Credit Suisse,0.0,cuenta_global,2025-03,Credit Suisse_cuenta_global_2025-03
+Credit Suisse,0.0,cuenta_global,2026-02,Credit Suisse_cuenta_global_2026-02
+Credit Suisse,0.0,cuenta_global,2026-03,Credit Suisse_cuenta_global_2026-03
+Credit Suisse,0.0,dep_exigibilidad,2025-03,Credit Suisse_dep_exigibilidad_2025-03
+Credit Suisse,0.0,dep_exigibilidad,2026-02,Credit Suisse_dep_exigibilidad_2026-02
+Credit Suisse,0.0,dep_exigibilidad,2026-03,Credit Suisse_dep_exigibilidad_2026-03
+Credit Suisse,0.0,dep_plazo_dinero,2025-03,Credit Suisse_dep_plazo_dinero_2025-03
+Credit Suisse,0.0,dep_plazo_dinero,2026-02,Credit Suisse_dep_plazo_dinero_2026-02
+Credit Suisse,0.0,dep_plazo_dinero,2026-03,Credit Suisse_dep_plazo_dinero_2026-03
+Credit Suisse,0.0,dep_plazo_publico,2025-03,Credit Suisse_dep_plazo_publico_2025-03
+Credit Suisse,0.0,dep_plazo_publico,2026-02,Credit Suisse_dep_plazo_publico_2026-02
+Credit Suisse,0.0,dep_plazo_publico,2026-03,Credit Suisse_dep_plazo_publico_2026-03
+Credit Suisse,0.0,prestamos_interb,2025-03,Credit Suisse_prestamos_interb_2025-03
+Credit Suisse,0.0,prestamos_interb,2026-02,Credit Suisse_prestamos_interb_2026-02
+Credit Suisse,0.0,prestamos_interb,2026-03,Credit Suisse_prestamos_interb_2026-03
+Credit Suisse,0.0,titulos_credito,2025-03,Credit Suisse_titulos_credito_2025-03
+Credit Suisse,0.0,titulos_credito,2026-02,Credit Suisse_titulos_credito_2026-02
+Credit Suisse,0.0,titulos_credito,2026-03,Credit Suisse_titulos_credito_2026-03
+Dondé Banco,1722.042673,captacion_total,2025-03,Dondé Banco_captacion_total_2025-03
+Dondé Banco,2461.946047,captacion_total,2026-02,Dondé Banco_captacion_total_2026-02
+Dondé Banco,2855.681577,captacion_total,2026-03,Dondé Banco_captacion_total_2026-03
+Dondé Banco,0.674716,cuenta_global,2025-03,Dondé Banco_cuenta_global_2025-03
+Dondé Banco,0.598723,cuenta_global,2026-02,Dondé Banco_cuenta_global_2026-02
+Dondé Banco,0.598723,cuenta_global,2026-03,Dondé Banco_cuenta_global_2026-03
+Dondé Banco,425.752325,dep_exigibilidad,2025-03,Dondé Banco_dep_exigibilidad_2025-03
+Dondé Banco,939.063598,dep_exigibilidad,2026-02,Dondé Banco_dep_exigibilidad_2026-02
+Dondé Banco,921.677066,dep_exigibilidad,2026-03,Dondé Banco_dep_exigibilidad_2026-03
+Dondé Banco,375.535177,dep_plazo_dinero,2025-03,Dondé Banco_dep_plazo_dinero_2025-03
+Dondé Banco,710.746663,dep_plazo_dinero,2026-02,Dondé Banco_dep_plazo_dinero_2026-02
+Dondé Banco,1053.714116,dep_plazo_dinero,2026-03,Dondé Banco_dep_plazo_dinero_2026-03
+Dondé Banco,920.080455,dep_plazo_publico,2025-03,Dondé Banco_dep_plazo_publico_2025-03
+Dondé Banco,811.537063,dep_plazo_publico,2026-02,Dondé Banco_dep_plazo_publico_2026-02
+Dondé Banco,879.691672,dep_plazo_publico,2026-03,Dondé Banco_dep_plazo_publico_2026-03
+Dondé Banco,0.0,prestamos_interb,2025-03,Dondé Banco_prestamos_interb_2025-03
+Dondé Banco,0.0,prestamos_interb,2026-02,Dondé Banco_prestamos_interb_2026-02
+Dondé Banco,0.0,prestamos_interb,2026-03,Dondé Banco_prestamos_interb_2026-03
+Dondé Banco,0.0,titulos_credito,2025-03,Dondé Banco_titulos_credito_2025-03
+Dondé Banco,0.0,titulos_credito,2026-02,Dondé Banco_titulos_credito_2026-02
+Dondé Banco,0.0,titulos_credito,2026-03,Dondé Banco_titulos_credito_2026-03
+HSBC,596108.71777,captacion_total,2025-03,HSBC_captacion_total_2025-03
+HSBC,538911.4818259999,captacion_total,2026-02,HSBC_captacion_total_2026-02
+HSBC,540226.892003,captacion_total,2026-03,HSBC_captacion_total_2026-03
+HSBC,2511.033174,cuenta_global,2025-03,HSBC_cuenta_global_2025-03
+HSBC,2764.273332,cuenta_global,2026-02,HSBC_cuenta_global_2026-02
+HSBC,2805.177976,cuenta_global,2026-03,HSBC_cuenta_global_2026-03
+HSBC,385862.530575,dep_exigibilidad,2025-03,HSBC_dep_exigibilidad_2025-03
+HSBC,358102.610652,dep_exigibilidad,2026-02,HSBC_dep_exigibilidad_2026-02
+HSBC,363546.350669,dep_exigibilidad,2026-03,HSBC_dep_exigibilidad_2026-03
+HSBC,15601.41598,dep_plazo_dinero,2025-03,HSBC_dep_plazo_dinero_2025-03
+HSBC,0.0,dep_plazo_dinero,2026-02,HSBC_dep_plazo_dinero_2026-02
+HSBC,0.0,dep_plazo_dinero,2026-03,HSBC_dep_plazo_dinero_2026-03
+HSBC,161612.416494,dep_plazo_publico,2025-03,HSBC_dep_plazo_publico_2025-03
+HSBC,151782.868204,dep_plazo_publico,2026-02,HSBC_dep_plazo_publico_2026-02
+HSBC,148118.399803,dep_plazo_publico,2026-03,HSBC_dep_plazo_publico_2026-03
+HSBC,11147.251976,prestamos_interb,2025-03,HSBC_prestamos_interb_2025-03
+HSBC,7372.616083,prestamos_interb,2026-02,HSBC_prestamos_interb_2026-02
+HSBC,6771.779319,prestamos_interb,2026-03,HSBC_prestamos_interb_2026-03
+HSBC,19374.069571,titulos_credito,2025-03,HSBC_titulos_credito_2025-03
+HSBC,18889.113555,titulos_credito,2026-02,HSBC_titulos_credito_2026-02
+HSBC,18985.184236,titulos_credito,2026-03,HSBC_titulos_credito_2026-03
+Hey Banco,0.0054,captacion_total,2025-03,Hey Banco_captacion_total_2025-03
+Hey Banco,13031.230222389999,captacion_total,2026-02,Hey Banco_captacion_total_2026-02
+Hey Banco,13061.71242058,captacion_total,2026-03,Hey Banco_captacion_total_2026-03
+Hey Banco,0.0,cuenta_global,2025-03,Hey Banco_cuenta_global_2025-03
+Hey Banco,11.309944869999999,cuenta_global,2026-02,Hey Banco_cuenta_global_2026-02
+Hey Banco,10.61713892,cuenta_global,2026-03,Hey Banco_cuenta_global_2026-03
+Hey Banco,0.0054,dep_exigibilidad,2025-03,Hey Banco_dep_exigibilidad_2025-03
+Hey Banco,2925.38743934,dep_exigibilidad,2026-02,Hey Banco_dep_exigibilidad_2026-02
+Hey Banco,2973.58986119,dep_exigibilidad,2026-03,Hey Banco_dep_exigibilidad_2026-03
+Hey Banco,0.0,dep_plazo_dinero,2025-03,Hey Banco_dep_plazo_dinero_2025-03
+Hey Banco,0.0,dep_plazo_dinero,2026-02,Hey Banco_dep_plazo_dinero_2026-02
+Hey Banco,0.0,dep_plazo_dinero,2026-03,Hey Banco_dep_plazo_dinero_2026-03
+Hey Banco,0.0,dep_plazo_publico,2025-03,Hey Banco_dep_plazo_publico_2025-03
+Hey Banco,10094.53283818,dep_plazo_publico,2026-02,Hey Banco_dep_plazo_publico_2026-02
+Hey Banco,10077.505420469999,dep_plazo_publico,2026-03,Hey Banco_dep_plazo_publico_2026-03
+Hey Banco,0.0,prestamos_interb,2025-03,Hey Banco_prestamos_interb_2025-03
+Hey Banco,0.0,prestamos_interb,2026-02,Hey Banco_prestamos_interb_2026-02
+Hey Banco,0.0,prestamos_interb,2026-03,Hey Banco_prestamos_interb_2026-03
+Hey Banco,0.0,titulos_credito,2025-03,Hey Banco_titulos_credito_2025-03
+Hey Banco,0.0,titulos_credito,2026-02,Hey Banco_titulos_credito_2026-02
+Hey Banco,0.0,titulos_credito,2026-03,Hey Banco_titulos_credito_2026-03
+ICBC,7277.49933,captacion_total,2025-03,ICBC_captacion_total_2025-03
+ICBC,10665.421965,captacion_total,2026-02,ICBC_captacion_total_2026-02
+ICBC,10390.925987999999,captacion_total,2026-03,ICBC_captacion_total_2026-03
+ICBC,0.0,cuenta_global,2025-03,ICBC_cuenta_global_2025-03
+ICBC,0.0,cuenta_global,2026-02,ICBC_cuenta_global_2026-02
+ICBC,0.0,cuenta_global,2026-03,ICBC_cuenta_global_2026-03
+ICBC,5562.151389,dep_exigibilidad,2025-03,ICBC_dep_exigibilidad_2025-03
+ICBC,7776.227464,dep_exigibilidad,2026-02,ICBC_dep_exigibilidad_2026-02
+ICBC,7823.762701,dep_exigibilidad,2026-03,ICBC_dep_exigibilidad_2026-03
+ICBC,0.0,dep_plazo_dinero,2025-03,ICBC_dep_plazo_dinero_2025-03
+ICBC,0.0,dep_plazo_dinero,2026-02,ICBC_dep_plazo_dinero_2026-02
+ICBC,0.0,dep_plazo_dinero,2026-03,ICBC_dep_plazo_dinero_2026-03
+ICBC,404.251368,dep_plazo_publico,2025-03,ICBC_dep_plazo_publico_2025-03
+ICBC,1683.914396,dep_plazo_publico,2026-02,ICBC_dep_plazo_publico_2026-02
+ICBC,1627.556745,dep_plazo_publico,2026-03,ICBC_dep_plazo_publico_2026-03
+ICBC,1311.096573,prestamos_interb,2025-03,ICBC_prestamos_interb_2025-03
+ICBC,1205.280105,prestamos_interb,2026-02,ICBC_prestamos_interb_2026-02
+ICBC,939.606542,prestamos_interb,2026-03,ICBC_prestamos_interb_2026-03
+ICBC,0.0,titulos_credito,2025-03,ICBC_titulos_credito_2025-03
+ICBC,0.0,titulos_credito,2026-02,ICBC_titulos_credito_2026-02
+ICBC,0.0,titulos_credito,2026-03,ICBC_titulos_credito_2026-03
+Inbursa,455999.127162,captacion_total,2025-03,Inbursa_captacion_total_2025-03
+Inbursa,459223.815326,captacion_total,2026-02,Inbursa_captacion_total_2026-02
+Inbursa,462046.34317899996,captacion_total,2026-03,Inbursa_captacion_total_2026-03
+Inbursa,471.366113,cuenta_global,2025-03,Inbursa_cuenta_global_2025-03
+Inbursa,373.268274,cuenta_global,2026-02,Inbursa_cuenta_global_2026-02
+Inbursa,374.735226,cuenta_global,2026-03,Inbursa_cuenta_global_2026-03
+Inbursa,340302.75487,dep_exigibilidad,2025-03,Inbursa_dep_exigibilidad_2025-03
+Inbursa,359162.753849,dep_exigibilidad,2026-02,Inbursa_dep_exigibilidad_2026-02
+Inbursa,360946.408359,dep_exigibilidad,2026-03,Inbursa_dep_exigibilidad_2026-03
+Inbursa,1900.419462,dep_plazo_dinero,2025-03,Inbursa_dep_plazo_dinero_2025-03
+Inbursa,0.0,dep_plazo_dinero,2026-02,Inbursa_dep_plazo_dinero_2026-02
+Inbursa,0.0,dep_plazo_dinero,2026-03,Inbursa_dep_plazo_dinero_2026-03
+Inbursa,53252.277645,dep_plazo_publico,2025-03,Inbursa_dep_plazo_publico_2025-03
+Inbursa,57692.136466,dep_plazo_publico,2026-02,Inbursa_dep_plazo_publico_2026-02
+Inbursa,58121.630587,dep_plazo_publico,2026-03,Inbursa_dep_plazo_publico_2026-03
+Inbursa,28952.795431,prestamos_interb,2025-03,Inbursa_prestamos_interb_2025-03
+Inbursa,18878.958789,prestamos_interb,2026-02,Inbursa_prestamos_interb_2026-02
+Inbursa,18853.67159,prestamos_interb,2026-03,Inbursa_prestamos_interb_2026-03
+Inbursa,31119.513641,titulos_credito,2025-03,Inbursa_titulos_credito_2025-03
+Inbursa,23116.697948,titulos_credito,2026-02,Inbursa_titulos_credito_2026-02
+Inbursa,23749.897417,titulos_credito,2026-03,Inbursa_titulos_credito_2026-03
+Inmobiliario Mexicano,13331.765826289999,captacion_total,2025-03,Inmobiliario Mexicano_captacion_total_2025-03
+Inmobiliario Mexicano,13241.77985571,captacion_total,2026-02,Inmobiliario Mexicano_captacion_total_2026-02
+Inmobiliario Mexicano,14348.72137724,captacion_total,2026-03,Inmobiliario Mexicano_captacion_total_2026-03
+Inmobiliario Mexicano,0.36315534000000005,cuenta_global,2025-03,Inmobiliario Mexicano_cuenta_global_2025-03
+Inmobiliario Mexicano,0.5511394300000001,cuenta_global,2026-02,Inmobiliario Mexicano_cuenta_global_2026-02
+Inmobiliario Mexicano,0.55998058,cuenta_global,2026-03,Inmobiliario Mexicano_cuenta_global_2026-03
+Inmobiliario Mexicano,508.33040011,dep_exigibilidad,2025-03,Inmobiliario Mexicano_dep_exigibilidad_2025-03
+Inmobiliario Mexicano,415.57968942,dep_exigibilidad,2026-02,Inmobiliario Mexicano_dep_exigibilidad_2026-02
+Inmobiliario Mexicano,557.74044084,dep_exigibilidad,2026-03,Inmobiliario Mexicano_dep_exigibilidad_2026-03
+Inmobiliario Mexicano,0.0,dep_plazo_dinero,2025-03,Inmobiliario Mexicano_dep_plazo_dinero_2025-03
+Inmobiliario Mexicano,0.0,dep_plazo_dinero,2026-02,Inmobiliario Mexicano_dep_plazo_dinero_2026-02
+Inmobiliario Mexicano,0.0,dep_plazo_dinero,2026-03,Inmobiliario Mexicano_dep_plazo_dinero_2026-03
+Inmobiliario Mexicano,11230.059167700001,dep_plazo_publico,2025-03,Inmobiliario Mexicano_dep_plazo_publico_2025-03
+Inmobiliario Mexicano,11844.6500197,dep_plazo_publico,2026-02,Inmobiliario Mexicano_dep_plazo_publico_2026-02
+Inmobiliario Mexicano,11930.33470669,dep_plazo_publico,2026-03,Inmobiliario Mexicano_dep_plazo_publico_2026-03
+Inmobiliario Mexicano,1593.01310314,prestamos_interb,2025-03,Inmobiliario Mexicano_prestamos_interb_2025-03
+Inmobiliario Mexicano,980.99900716,prestamos_interb,2026-02,Inmobiliario Mexicano_prestamos_interb_2026-02
+Inmobiliario Mexicano,1067.87209772,prestamos_interb,2026-03,Inmobiliario Mexicano_prestamos_interb_2026-03
+Inmobiliario Mexicano,0.0,titulos_credito,2025-03,Inmobiliario Mexicano_titulos_credito_2025-03
+Inmobiliario Mexicano,0.0,titulos_credito,2026-02,Inmobiliario Mexicano_titulos_credito_2026-02
+Inmobiliario Mexicano,792.21415141,titulos_credito,2026-03,Inmobiliario Mexicano_titulos_credito_2026-03
+Intercam Banco,40781.394608,captacion_total,2025-03,Intercam Banco_captacion_total_2025-03
+Intercam Banco,0.0,captacion_total,2026-02,Intercam Banco_captacion_total_2026-02
+Intercam Banco,0.0,captacion_total,2026-03,Intercam Banco_captacion_total_2026-03
+Intercam Banco,67.972916,cuenta_global,2025-03,Intercam Banco_cuenta_global_2025-03
+Intercam Banco,0.0,cuenta_global,2026-02,Intercam Banco_cuenta_global_2026-02
+Intercam Banco,0.0,cuenta_global,2026-03,Intercam Banco_cuenta_global_2026-03
+Intercam Banco,25257.962058,dep_exigibilidad,2025-03,Intercam Banco_dep_exigibilidad_2025-03
+Intercam Banco,0.0,dep_exigibilidad,2026-02,Intercam Banco_dep_exigibilidad_2026-02
+Intercam Banco,0.0,dep_exigibilidad,2026-03,Intercam Banco_dep_exigibilidad_2026-03
+Intercam Banco,100.391763,dep_plazo_dinero,2025-03,Intercam Banco_dep_plazo_dinero_2025-03
+Intercam Banco,0.0,dep_plazo_dinero,2026-02,Intercam Banco_dep_plazo_dinero_2026-02
+Intercam Banco,0.0,dep_plazo_dinero,2026-03,Intercam Banco_dep_plazo_dinero_2026-03
+Intercam Banco,14517.289235,dep_plazo_publico,2025-03,Intercam Banco_dep_plazo_publico_2025-03
+Intercam Banco,0.0,dep_plazo_publico,2026-02,Intercam Banco_dep_plazo_publico_2026-02
+Intercam Banco,0.0,dep_plazo_publico,2026-03,Intercam Banco_dep_plazo_publico_2026-03
+Intercam Banco,837.778636,prestamos_interb,2025-03,Intercam Banco_prestamos_interb_2025-03
+Intercam Banco,0.0,prestamos_interb,2026-02,Intercam Banco_prestamos_interb_2026-02
+Intercam Banco,0.0,prestamos_interb,2026-03,Intercam Banco_prestamos_interb_2026-03
+Intercam Banco,0.0,titulos_credito,2025-03,Intercam Banco_titulos_credito_2025-03
+Intercam Banco,0.0,titulos_credito,2026-02,Intercam Banco_titulos_credito_2026-02
+Intercam Banco,0.0,titulos_credito,2026-03,Intercam Banco_titulos_credito_2026-03
+Invex,58317.110414999996,captacion_total,2025-03,Invex_captacion_total_2025-03
+Invex,66838.951444,captacion_total,2026-02,Invex_captacion_total_2026-02
+Invex,70444.03651199999,captacion_total,2026-03,Invex_captacion_total_2026-03
+Invex,0.685101,cuenta_global,2025-03,Invex_cuenta_global_2025-03
+Invex,0.717264,cuenta_global,2026-02,Invex_cuenta_global_2026-02
+Invex,0.71772,cuenta_global,2026-03,Invex_cuenta_global_2026-03
+Invex,8461.164327,dep_exigibilidad,2025-03,Invex_dep_exigibilidad_2025-03
+Invex,9423.037184,dep_exigibilidad,2026-02,Invex_dep_exigibilidad_2026-02
+Invex,10228.271128,dep_exigibilidad,2026-03,Invex_dep_exigibilidad_2026-03
+Invex,27128.942644,dep_plazo_dinero,2025-03,Invex_dep_plazo_dinero_2025-03
+Invex,23459.324964,dep_plazo_dinero,2026-02,Invex_dep_plazo_dinero_2026-02
+Invex,22502.103752,dep_plazo_dinero,2026-03,Invex_dep_plazo_dinero_2026-03
+Invex,18190.842783,dep_plazo_publico,2025-03,Invex_dep_plazo_publico_2025-03
+Invex,24398.141522,dep_plazo_publico,2026-02,Invex_dep_plazo_publico_2026-02
+Invex,28559.398716,dep_plazo_publico,2026-03,Invex_dep_plazo_publico_2026-03
+Invex,4041.446926,prestamos_interb,2025-03,Invex_prestamos_interb_2025-03
+Invex,4477.091866,prestamos_interb,2026-02,Invex_prestamos_interb_2026-02
+Invex,4049.062488,prestamos_interb,2026-03,Invex_prestamos_interb_2026-03
+Invex,494.028634,titulos_credito,2025-03,Invex_titulos_credito_2025-03
+Invex,5080.638644,titulos_credito,2026-02,Invex_titulos_credito_2026-02
+Invex,5104.482708,titulos_credito,2026-03,Invex_titulos_credito_2026-03
+J.P. Morgan,55277.486082999996,captacion_total,2025-03,J.P. Morgan_captacion_total_2025-03
+J.P. Morgan,75544.459158,captacion_total,2026-02,J.P. Morgan_captacion_total_2026-02
+J.P. Morgan,78315.173831,captacion_total,2026-03,J.P. Morgan_captacion_total_2026-03
+J.P. Morgan,0.0,cuenta_global,2025-03,J.P. Morgan_cuenta_global_2025-03
+J.P. Morgan,0.0,cuenta_global,2026-02,J.P. Morgan_cuenta_global_2026-02
+J.P. Morgan,0.0,cuenta_global,2026-03,J.P. Morgan_cuenta_global_2026-03
+J.P. Morgan,53541.703613,dep_exigibilidad,2025-03,J.P. Morgan_dep_exigibilidad_2025-03
+J.P. Morgan,62614.013393,dep_exigibilidad,2026-02,J.P. Morgan_dep_exigibilidad_2026-02
+J.P. Morgan,66256.806233,dep_exigibilidad,2026-03,J.P. Morgan_dep_exigibilidad_2026-03
+J.P. Morgan,0.0,dep_plazo_dinero,2025-03,J.P. Morgan_dep_plazo_dinero_2025-03
+J.P. Morgan,0.0,dep_plazo_dinero,2026-02,J.P. Morgan_dep_plazo_dinero_2026-02
+J.P. Morgan,0.0,dep_plazo_dinero,2026-03,J.P. Morgan_dep_plazo_dinero_2026-03
+J.P. Morgan,0.0,dep_plazo_publico,2025-03,J.P. Morgan_dep_plazo_publico_2025-03
+J.P. Morgan,0.0,dep_plazo_publico,2026-02,J.P. Morgan_dep_plazo_publico_2026-02
+J.P. Morgan,0.0,dep_plazo_publico,2026-03,J.P. Morgan_dep_plazo_publico_2026-03
+J.P. Morgan,1735.78247,prestamos_interb,2025-03,J.P. Morgan_prestamos_interb_2025-03
+J.P. Morgan,12930.445765,prestamos_interb,2026-02,J.P. Morgan_prestamos_interb_2026-02
+J.P. Morgan,12058.367598,prestamos_interb,2026-03,J.P. Morgan_prestamos_interb_2026-03
+J.P. Morgan,0.0,titulos_credito,2025-03,J.P. Morgan_titulos_credito_2025-03
+J.P. Morgan,0.0,titulos_credito,2026-02,J.P. Morgan_titulos_credito_2026-02
+J.P. Morgan,0.0,titulos_credito,2026-03,J.P. Morgan_titulos_credito_2026-03
+KEB Hana México,4050.049879,captacion_total,2025-03,KEB Hana México_captacion_total_2025-03
+KEB Hana México,3771.898309,captacion_total,2026-02,KEB Hana México_captacion_total_2026-02
+KEB Hana México,3961.980073,captacion_total,2026-03,KEB Hana México_captacion_total_2026-03
+KEB Hana México,0.0,cuenta_global,2025-03,KEB Hana México_cuenta_global_2025-03
+KEB Hana México,0.0,cuenta_global,2026-02,KEB Hana México_cuenta_global_2026-02
+KEB Hana México,0.0,cuenta_global,2026-03,KEB Hana México_cuenta_global_2026-03
+KEB Hana México,0.0,dep_exigibilidad,2025-03,KEB Hana México_dep_exigibilidad_2025-03
+KEB Hana México,10.042485,dep_exigibilidad,2026-02,KEB Hana México_dep_exigibilidad_2026-02
+KEB Hana México,10.049389,dep_exigibilidad,2026-03,KEB Hana México_dep_exigibilidad_2026-03
+KEB Hana México,0.0,dep_plazo_dinero,2025-03,KEB Hana México_dep_plazo_dinero_2025-03
+KEB Hana México,0.0,dep_plazo_dinero,2026-02,KEB Hana México_dep_plazo_dinero_2026-02
+KEB Hana México,0.0,dep_plazo_dinero,2026-03,KEB Hana México_dep_plazo_dinero_2026-03
+KEB Hana México,126.608267,dep_plazo_publico,2025-03,KEB Hana México_dep_plazo_publico_2025-03
+KEB Hana México,276.014242,dep_plazo_publico,2026-02,KEB Hana México_dep_plazo_publico_2026-02
+KEB Hana México,322.822406,dep_plazo_publico,2026-03,KEB Hana México_dep_plazo_publico_2026-03
+KEB Hana México,3923.441612,prestamos_interb,2025-03,KEB Hana México_prestamos_interb_2025-03
+KEB Hana México,3485.841582,prestamos_interb,2026-02,KEB Hana México_prestamos_interb_2026-02
+KEB Hana México,3629.108278,prestamos_interb,2026-03,KEB Hana México_prestamos_interb_2026-03
+KEB Hana México,0.0,titulos_credito,2025-03,KEB Hana México_titulos_credito_2025-03
+KEB Hana México,0.0,titulos_credito,2026-02,KEB Hana México_titulos_credito_2026-02
+KEB Hana México,0.0,titulos_credito,2026-03,KEB Hana México_titulos_credito_2026-03
+Kapital ,13288.562024290002,captacion_total,2025-03,Kapital _captacion_total_2025-03
+Kapital ,46824.873588,captacion_total,2026-02,Kapital _captacion_total_2026-02
+Kapital ,58422.369806,captacion_total,2026-03,Kapital _captacion_total_2026-03
+Kapital ,7.85948626,cuenta_global,2025-03,Kapital _cuenta_global_2025-03
+Kapital ,87.341629,cuenta_global,2026-02,Kapital _cuenta_global_2026-02
+Kapital ,90.182664,cuenta_global,2026-03,Kapital _cuenta_global_2026-03
+Kapital ,3036.2797065500004,dep_exigibilidad,2025-03,Kapital _dep_exigibilidad_2025-03
+Kapital ,17771.791479,dep_exigibilidad,2026-02,Kapital _dep_exigibilidad_2026-02
+Kapital ,19212.468451,dep_exigibilidad,2026-03,Kapital _dep_exigibilidad_2026-03
+Kapital ,0.0,dep_plazo_dinero,2025-03,Kapital _dep_plazo_dinero_2025-03
+Kapital ,0.0,dep_plazo_dinero,2026-02,Kapital _dep_plazo_dinero_2026-02
+Kapital ,0.0,dep_plazo_dinero,2026-03,Kapital _dep_plazo_dinero_2026-03
+Kapital ,10244.42283147,dep_plazo_publico,2025-03,Kapital _dep_plazo_publico_2025-03
+Kapital ,28052.12798,dep_plazo_publico,2026-02,Kapital _dep_plazo_publico_2026-02
+Kapital ,36698.472163,dep_plazo_publico,2026-03,Kapital _dep_plazo_publico_2026-03
+Kapital ,1e-08,prestamos_interb,2025-03,Kapital _prestamos_interb_2025-03
+Kapital ,0.0,prestamos_interb,2026-02,Kapital _prestamos_interb_2026-02
+Kapital ,0.0,prestamos_interb,2026-03,Kapital _prestamos_interb_2026-03
+Kapital ,0.0,titulos_credito,2025-03,Kapital _titulos_credito_2025-03
+Kapital ,913.6125,titulos_credito,2026-02,Kapital _titulos_credito_2026-02
+Kapital ,2421.246528,titulos_credito,2026-03,Kapital _titulos_credito_2026-03
+MUFG Bank,30464.831027,captacion_total,2025-03,MUFG Bank_captacion_total_2025-03
+MUFG Bank,31401.508154,captacion_total,2026-02,MUFG Bank_captacion_total_2026-02
+MUFG Bank,32890.446674,captacion_total,2026-03,MUFG Bank_captacion_total_2026-03
+MUFG Bank,0.0,cuenta_global,2025-03,MUFG Bank_cuenta_global_2025-03
+MUFG Bank,0.0,cuenta_global,2026-02,MUFG Bank_cuenta_global_2026-02
+MUFG Bank,0.0,cuenta_global,2026-03,MUFG Bank_cuenta_global_2026-03
+MUFG Bank,19411.947107,dep_exigibilidad,2025-03,MUFG Bank_dep_exigibilidad_2025-03
+MUFG Bank,17482.801207,dep_exigibilidad,2026-02,MUFG Bank_dep_exigibilidad_2026-02
+MUFG Bank,20077.470108,dep_exigibilidad,2026-03,MUFG Bank_dep_exigibilidad_2026-03
+MUFG Bank,0.0,dep_plazo_dinero,2025-03,MUFG Bank_dep_plazo_dinero_2025-03
+MUFG Bank,0.0,dep_plazo_dinero,2026-02,MUFG Bank_dep_plazo_dinero_2026-02
+MUFG Bank,0.0,dep_plazo_dinero,2026-03,MUFG Bank_dep_plazo_dinero_2026-03
+MUFG Bank,11052.88392,dep_plazo_publico,2025-03,MUFG Bank_dep_plazo_publico_2025-03
+MUFG Bank,13918.706947,dep_plazo_publico,2026-02,MUFG Bank_dep_plazo_publico_2026-02
+MUFG Bank,12812.976566,dep_plazo_publico,2026-03,MUFG Bank_dep_plazo_publico_2026-03
+MUFG Bank,0.0,prestamos_interb,2025-03,MUFG Bank_prestamos_interb_2025-03
+MUFG Bank,0.0,prestamos_interb,2026-02,MUFG Bank_prestamos_interb_2026-02
+MUFG Bank,0.0,prestamos_interb,2026-03,MUFG Bank_prestamos_interb_2026-03
+MUFG Bank,0.0,titulos_credito,2025-03,MUFG Bank_titulos_credito_2025-03
+MUFG Bank,0.0,titulos_credito,2026-02,MUFG Bank_titulos_credito_2026-02
+MUFG Bank,0.0,titulos_credito,2026-03,MUFG Bank_titulos_credito_2026-03
+Mizuho Bank,6258.193775090001,captacion_total,2025-03,Mizuho Bank_captacion_total_2025-03
+Mizuho Bank,9420.555692189999,captacion_total,2026-02,Mizuho Bank_captacion_total_2026-02
+Mizuho Bank,9434.08293362,captacion_total,2026-03,Mizuho Bank_captacion_total_2026-03
+Mizuho Bank,0.0,cuenta_global,2025-03,Mizuho Bank_cuenta_global_2025-03
+Mizuho Bank,0.0,cuenta_global,2026-02,Mizuho Bank_cuenta_global_2026-02
+Mizuho Bank,0.0,cuenta_global,2026-03,Mizuho Bank_cuenta_global_2026-03
+Mizuho Bank,2348.1431164,dep_exigibilidad,2025-03,Mizuho Bank_dep_exigibilidad_2025-03
+Mizuho Bank,2045.0834545599998,dep_exigibilidad,2026-02,Mizuho Bank_dep_exigibilidad_2026-02
+Mizuho Bank,2622.49086011,dep_exigibilidad,2026-03,Mizuho Bank_dep_exigibilidad_2026-03
+Mizuho Bank,561.26624039,dep_plazo_dinero,2025-03,Mizuho Bank_dep_plazo_dinero_2025-03
+Mizuho Bank,508.78567356,dep_plazo_dinero,2026-02,Mizuho Bank_dep_plazo_dinero_2026-02
+Mizuho Bank,805.99731382,dep_plazo_dinero,2026-03,Mizuho Bank_dep_plazo_dinero_2026-03
+Mizuho Bank,2652.5066102600003,dep_plazo_publico,2025-03,Mizuho Bank_dep_plazo_publico_2025-03
+Mizuho Bank,6685.394100590001,dep_plazo_publico,2026-02,Mizuho Bank_dep_plazo_publico_2026-02
+Mizuho Bank,5825.52025125,dep_plazo_publico,2026-03,Mizuho Bank_dep_plazo_publico_2026-03
+Mizuho Bank,696.27780804,prestamos_interb,2025-03,Mizuho Bank_prestamos_interb_2025-03
+Mizuho Bank,181.29246347999998,prestamos_interb,2026-02,Mizuho Bank_prestamos_interb_2026-02
+Mizuho Bank,180.07450844,prestamos_interb,2026-03,Mizuho Bank_prestamos_interb_2026-03
+Mizuho Bank,0.0,titulos_credito,2025-03,Mizuho Bank_titulos_credito_2025-03
+Mizuho Bank,0.0,titulos_credito,2026-02,Mizuho Bank_titulos_credito_2026-02
+Mizuho Bank,0.0,titulos_credito,2026-03,Mizuho Bank_titulos_credito_2026-03
+Monex,86408.73495927,captacion_total,2025-03,Monex_captacion_total_2025-03
+Monex,94580.53306019999,captacion_total,2026-02,Monex_captacion_total_2026-02
+Monex,94671.18002628999,captacion_total,2026-03,Monex_captacion_total_2026-03
+Monex,3.68141385,cuenta_global,2025-03,Monex_cuenta_global_2025-03
+Monex,3.34355897,cuenta_global,2026-02,Monex_cuenta_global_2026-02
+Monex,3.46697946,cuenta_global,2026-03,Monex_cuenta_global_2026-03
+Monex,37851.95546635,dep_exigibilidad,2025-03,Monex_dep_exigibilidad_2025-03
+Monex,37214.499686769996,dep_exigibilidad,2026-02,Monex_dep_exigibilidad_2026-02
+Monex,40566.26460613,dep_exigibilidad,2026-03,Monex_dep_exigibilidad_2026-03
+Monex,9890.784248079999,dep_plazo_dinero,2025-03,Monex_dep_plazo_dinero_2025-03
+Monex,20674.65333308,dep_plazo_dinero,2026-02,Monex_dep_plazo_dinero_2026-02
+Monex,19327.28911058,dep_plazo_dinero,2026-03,Monex_dep_plazo_dinero_2026-03
+Monex,34132.153350240005,dep_plazo_publico,2025-03,Monex_dep_plazo_publico_2025-03
+Monex,32937.2575849,dep_plazo_publico,2026-02,Monex_dep_plazo_publico_2026-02
+Monex,31109.406447880003,dep_plazo_publico,2026-03,Monex_dep_plazo_publico_2026-03
+Monex,1584.08757585,prestamos_interb,2025-03,Monex_prestamos_interb_2025-03
+Monex,1750.95042005,prestamos_interb,2026-02,Monex_prestamos_interb_2026-02
+Monex,1790.62055025,prestamos_interb,2026-03,Monex_prestamos_interb_2026-03
+Monex,2946.0729049,titulos_credito,2025-03,Monex_titulos_credito_2025-03
+Monex,1999.8284764300001,titulos_credito,2026-02,Monex_titulos_credito_2026-02
+Monex,1874.13233199,titulos_credito,2026-03,Monex_titulos_credito_2026-03
+Multiva,90531.48086400001,captacion_total,2025-03,Multiva_captacion_total_2025-03
+Multiva,127653.939404,captacion_total,2026-02,Multiva_captacion_total_2026-02
+Multiva,136611.21720400002,captacion_total,2026-03,Multiva_captacion_total_2026-03
+Multiva,41.811021,cuenta_global,2025-03,Multiva_cuenta_global_2025-03
+Multiva,49.947429,cuenta_global,2026-02,Multiva_cuenta_global_2026-02
+Multiva,50.447979,cuenta_global,2026-03,Multiva_cuenta_global_2026-03
+Multiva,38956.007402,dep_exigibilidad,2025-03,Multiva_dep_exigibilidad_2025-03
+Multiva,49560.619816,dep_exigibilidad,2026-02,Multiva_dep_exigibilidad_2026-02
+Multiva,54037.800316,dep_exigibilidad,2026-03,Multiva_dep_exigibilidad_2026-03
+Multiva,10085.666696,dep_plazo_dinero,2025-03,Multiva_dep_plazo_dinero_2025-03
+Multiva,8518.710957,dep_plazo_dinero,2026-02,Multiva_dep_plazo_dinero_2026-02
+Multiva,8081.677875,dep_plazo_dinero,2026-03,Multiva_dep_plazo_dinero_2026-03
+Multiva,29325.360648,dep_plazo_publico,2025-03,Multiva_dep_plazo_publico_2025-03
+Multiva,59714.049876,dep_plazo_publico,2026-02,Multiva_dep_plazo_publico_2026-02
+Multiva,66886.27707,dep_plazo_publico,2026-03,Multiva_dep_plazo_publico_2026-03
+Multiva,12122.635097,prestamos_interb,2025-03,Multiva_prestamos_interb_2025-03
+Multiva,9810.611326,prestamos_interb,2026-02,Multiva_prestamos_interb_2026-02
+Multiva,7555.013964,prestamos_interb,2026-03,Multiva_prestamos_interb_2026-03
+Multiva,0.0,titulos_credito,2025-03,Multiva_titulos_credito_2025-03
+Multiva,0.0,titulos_credito,2026-02,Multiva_titulos_credito_2026-02
+Multiva,0.0,titulos_credito,2026-03,Multiva_titulos_credito_2026-03
+Pagatodo,20.879161,captacion_total,2025-03,Pagatodo_captacion_total_2025-03
+Pagatodo,274.164195,captacion_total,2026-02,Pagatodo_captacion_total_2026-02
+Pagatodo,60.832995,captacion_total,2026-03,Pagatodo_captacion_total_2026-03
+Pagatodo,0.041289,cuenta_global,2025-03,Pagatodo_cuenta_global_2025-03
+Pagatodo,0.012325,cuenta_global,2026-02,Pagatodo_cuenta_global_2026-02
+Pagatodo,0.01239,cuenta_global,2026-03,Pagatodo_cuenta_global_2026-03
+Pagatodo,20.837872,dep_exigibilidad,2025-03,Pagatodo_dep_exigibilidad_2025-03
+Pagatodo,274.15187,dep_exigibilidad,2026-02,Pagatodo_dep_exigibilidad_2026-02
+Pagatodo,60.820605,dep_exigibilidad,2026-03,Pagatodo_dep_exigibilidad_2026-03
+Pagatodo,0.0,dep_plazo_dinero,2025-03,Pagatodo_dep_plazo_dinero_2025-03
+Pagatodo,0.0,dep_plazo_dinero,2026-02,Pagatodo_dep_plazo_dinero_2026-02
+Pagatodo,0.0,dep_plazo_dinero,2026-03,Pagatodo_dep_plazo_dinero_2026-03
+Pagatodo,0.0,dep_plazo_publico,2025-03,Pagatodo_dep_plazo_publico_2025-03
+Pagatodo,0.0,dep_plazo_publico,2026-02,Pagatodo_dep_plazo_publico_2026-02
+Pagatodo,0.0,dep_plazo_publico,2026-03,Pagatodo_dep_plazo_publico_2026-03
+Pagatodo,0.0,prestamos_interb,2025-03,Pagatodo_prestamos_interb_2025-03
+Pagatodo,0.0,prestamos_interb,2026-02,Pagatodo_prestamos_interb_2026-02
+Pagatodo,0.0,prestamos_interb,2026-03,Pagatodo_prestamos_interb_2026-03
+Pagatodo,0.0,titulos_credito,2025-03,Pagatodo_titulos_credito_2025-03
+Pagatodo,0.0,titulos_credito,2026-02,Pagatodo_titulos_credito_2026-02
+Pagatodo,0.0,titulos_credito,2026-03,Pagatodo_titulos_credito_2026-03
+Revolut Bank,0.0,captacion_total,2025-03,Revolut Bank_captacion_total_2025-03
+Revolut Bank,2384.43706341,captacion_total,2026-02,Revolut Bank_captacion_total_2026-02
+Revolut Bank,3753.03527811,captacion_total,2026-03,Revolut Bank_captacion_total_2026-03
+Revolut Bank,0.0,cuenta_global,2025-03,Revolut Bank_cuenta_global_2025-03
+Revolut Bank,0.0,cuenta_global,2026-02,Revolut Bank_cuenta_global_2026-02
+Revolut Bank,0.0,cuenta_global,2026-03,Revolut Bank_cuenta_global_2026-03
+Revolut Bank,0.0,dep_exigibilidad,2025-03,Revolut Bank_dep_exigibilidad_2025-03
+Revolut Bank,2384.43706341,dep_exigibilidad,2026-02,Revolut Bank_dep_exigibilidad_2026-02
+Revolut Bank,3753.03527811,dep_exigibilidad,2026-03,Revolut Bank_dep_exigibilidad_2026-03
+Revolut Bank,0.0,dep_plazo_dinero,2025-03,Revolut Bank_dep_plazo_dinero_2025-03
+Revolut Bank,0.0,dep_plazo_dinero,2026-02,Revolut Bank_dep_plazo_dinero_2026-02
+Revolut Bank,0.0,dep_plazo_dinero,2026-03,Revolut Bank_dep_plazo_dinero_2026-03
+Revolut Bank,0.0,dep_plazo_publico,2025-03,Revolut Bank_dep_plazo_publico_2025-03
+Revolut Bank,0.0,dep_plazo_publico,2026-02,Revolut Bank_dep_plazo_publico_2026-02
+Revolut Bank,0.0,dep_plazo_publico,2026-03,Revolut Bank_dep_plazo_publico_2026-03
+Revolut Bank,0.0,prestamos_interb,2025-03,Revolut Bank_prestamos_interb_2025-03
+Revolut Bank,0.0,prestamos_interb,2026-02,Revolut Bank_prestamos_interb_2026-02
+Revolut Bank,0.0,prestamos_interb,2026-03,Revolut Bank_prestamos_interb_2026-03
+Revolut Bank,0.0,titulos_credito,2025-03,Revolut Bank_titulos_credito_2025-03
+Revolut Bank,0.0,titulos_credito,2026-02,Revolut Bank_titulos_credito_2026-02
+Revolut Bank,0.0,titulos_credito,2026-03,Revolut Bank_titulos_credito_2026-03
+Sabadell,126058.79310099999,captacion_total,2025-03,Sabadell_captacion_total_2025-03
+Sabadell,127391.958237,captacion_total,2026-02,Sabadell_captacion_total_2026-02
+Sabadell,128213.82140799999,captacion_total,2026-03,Sabadell_captacion_total_2026-03
+Sabadell,2.4161,cuenta_global,2025-03,Sabadell_cuenta_global_2025-03
+Sabadell,2.290813,cuenta_global,2026-02,Sabadell_cuenta_global_2026-02
+Sabadell,2.247503,cuenta_global,2026-03,Sabadell_cuenta_global_2026-03
+Sabadell,41544.518197,dep_exigibilidad,2025-03,Sabadell_dep_exigibilidad_2025-03
+Sabadell,40037.846414,dep_exigibilidad,2026-02,Sabadell_dep_exigibilidad_2026-02
+Sabadell,40468.595743,dep_exigibilidad,2026-03,Sabadell_dep_exigibilidad_2026-03
+Sabadell,5043.72838,dep_plazo_dinero,2025-03,Sabadell_dep_plazo_dinero_2025-03
+Sabadell,2057.554653,dep_plazo_dinero,2026-02,Sabadell_dep_plazo_dinero_2026-02
+Sabadell,2505.519639,dep_plazo_dinero,2026-03,Sabadell_dep_plazo_dinero_2026-03
+Sabadell,25449.380461,dep_plazo_publico,2025-03,Sabadell_dep_plazo_publico_2025-03
+Sabadell,26696.992973,dep_plazo_publico,2026-02,Sabadell_dep_plazo_publico_2026-02
+Sabadell,23460.106319,dep_plazo_publico,2026-03,Sabadell_dep_plazo_publico_2026-03
+Sabadell,54018.749963,prestamos_interb,2025-03,Sabadell_prestamos_interb_2025-03
+Sabadell,58597.273384,prestamos_interb,2026-02,Sabadell_prestamos_interb_2026-02
+Sabadell,61777.352204,prestamos_interb,2026-03,Sabadell_prestamos_interb_2026-03
+Sabadell,0.0,titulos_credito,2025-03,Sabadell_titulos_credito_2025-03
+Sabadell,0.0,titulos_credito,2026-02,Sabadell_titulos_credito_2026-02
+Sabadell,0.0,titulos_credito,2026-03,Sabadell_titulos_credito_2026-03
+Scotiabank,601487.058114,captacion_total,2025-03,Scotiabank_captacion_total_2025-03
+Scotiabank,581653.574503,captacion_total,2026-02,Scotiabank_captacion_total_2026-02
+Scotiabank,570178.760378,captacion_total,2026-03,Scotiabank_captacion_total_2026-03
+Scotiabank,1536.852153,cuenta_global,2025-03,Scotiabank_cuenta_global_2025-03
+Scotiabank,1719.320028,cuenta_global,2026-02,Scotiabank_cuenta_global_2026-02
+Scotiabank,1759.827118,cuenta_global,2026-03,Scotiabank_cuenta_global_2026-03
+Scotiabank,282411.929929,dep_exigibilidad,2025-03,Scotiabank_dep_exigibilidad_2025-03
+Scotiabank,282065.534832,dep_exigibilidad,2026-02,Scotiabank_dep_exigibilidad_2026-02
+Scotiabank,286110.263445,dep_exigibilidad,2026-03,Scotiabank_dep_exigibilidad_2026-03
+Scotiabank,32839.493198,dep_plazo_dinero,2025-03,Scotiabank_dep_plazo_dinero_2025-03
+Scotiabank,29889.794207,dep_plazo_dinero,2026-02,Scotiabank_dep_plazo_dinero_2026-02
+Scotiabank,29749.356736,dep_plazo_dinero,2026-03,Scotiabank_dep_plazo_dinero_2026-03
+Scotiabank,209300.650062,dep_plazo_publico,2025-03,Scotiabank_dep_plazo_publico_2025-03
+Scotiabank,183245.762477,dep_plazo_publico,2026-02,Scotiabank_dep_plazo_publico_2026-02
+Scotiabank,167505.704115,dep_plazo_publico,2026-03,Scotiabank_dep_plazo_publico_2026-03
+Scotiabank,45161.465556,prestamos_interb,2025-03,Scotiabank_prestamos_interb_2025-03
+Scotiabank,45700.521574,prestamos_interb,2026-02,Scotiabank_prestamos_interb_2026-02
+Scotiabank,46084.472102,prestamos_interb,2026-03,Scotiabank_prestamos_interb_2026-03
+Scotiabank,30236.667216,titulos_credito,2025-03,Scotiabank_titulos_credito_2025-03
+Scotiabank,39032.641385,titulos_credito,2026-02,Scotiabank_titulos_credito_2026-02
+Scotiabank,38969.136862,titulos_credito,2026-03,Scotiabank_titulos_credito_2026-03
+Ualá,5831.44769,captacion_total,2025-03,Ualá_captacion_total_2025-03
+Ualá,5227.536353,captacion_total,2026-02,Ualá_captacion_total_2026-02
+Ualá,5151.76228,captacion_total,2026-03,Ualá_captacion_total_2026-03
+Ualá,2.706673,cuenta_global,2025-03,Ualá_cuenta_global_2025-03
+Ualá,1.483776,cuenta_global,2026-02,Ualá_cuenta_global_2026-02
+Ualá,1.521791,cuenta_global,2026-03,Ualá_cuenta_global_2026-03
+Ualá,3667.628159,dep_exigibilidad,2025-03,Ualá_dep_exigibilidad_2025-03
+Ualá,2691.526612,dep_exigibilidad,2026-02,Ualá_dep_exigibilidad_2026-02
+Ualá,2576.876974,dep_exigibilidad,2026-03,Ualá_dep_exigibilidad_2026-03
+Ualá,0.0,dep_plazo_dinero,2025-03,Ualá_dep_plazo_dinero_2025-03
+Ualá,0.0,dep_plazo_dinero,2026-02,Ualá_dep_plazo_dinero_2026-02
+Ualá,0.0,dep_plazo_dinero,2026-03,Ualá_dep_plazo_dinero_2026-03
+Ualá,2161.112858,dep_plazo_publico,2025-03,Ualá_dep_plazo_publico_2025-03
+Ualá,2534.525965,dep_plazo_publico,2026-02,Ualá_dep_plazo_publico_2026-02
+Ualá,2573.363515,dep_plazo_publico,2026-03,Ualá_dep_plazo_publico_2026-03
+Ualá,0.0,prestamos_interb,2025-03,Ualá_prestamos_interb_2025-03
+Ualá,0.0,prestamos_interb,2026-02,Ualá_prestamos_interb_2026-02
+Ualá,0.0,prestamos_interb,2026-03,Ualá_prestamos_interb_2026-03
+Ualá,0.0,titulos_credito,2025-03,Ualá_titulos_credito_2025-03
+Ualá,0.0,titulos_credito,2026-02,Ualá_titulos_credito_2026-02
+Ualá,0.0,titulos_credito,2026-03,Ualá_titulos_credito_2026-03
+Ve por Más,61989.134008,captacion_total,2025-03,Ve por Más_captacion_total_2025-03
+Ve por Más,72552.940042,captacion_total,2026-02,Ve por Más_captacion_total_2026-02
+Ve por Más,72995.02372,captacion_total,2026-03,Ve por Más_captacion_total_2026-03
+Ve por Más,8.675822,cuenta_global,2025-03,Ve por Más_cuenta_global_2025-03
+Ve por Más,11.572528,cuenta_global,2026-02,Ve por Más_cuenta_global_2026-02
+Ve por Más,11.583538,cuenta_global,2026-03,Ve por Más_cuenta_global_2026-03
+Ve por Más,38542.343325,dep_exigibilidad,2025-03,Ve por Más_dep_exigibilidad_2025-03
+Ve por Más,40664.107879,dep_exigibilidad,2026-02,Ve por Más_dep_exigibilidad_2026-02
+Ve por Más,39404.550669,dep_exigibilidad,2026-03,Ve por Más_dep_exigibilidad_2026-03
+Ve por Más,342.658654,dep_plazo_dinero,2025-03,Ve por Más_dep_plazo_dinero_2025-03
+Ve por Más,1817.957296,dep_plazo_dinero,2026-02,Ve por Más_dep_plazo_dinero_2026-02
+Ve por Más,1819.541635,dep_plazo_dinero,2026-03,Ve por Más_dep_plazo_dinero_2026-03
+Ve por Más,19345.61033,dep_plazo_publico,2025-03,Ve por Más_dep_plazo_publico_2025-03
+Ve por Más,26005.586135,dep_plazo_publico,2026-02,Ve por Más_dep_plazo_publico_2026-02
+Ve por Más,25803.531209,dep_plazo_publico,2026-03,Ve por Más_dep_plazo_publico_2026-03
+Ve por Más,3749.845877,prestamos_interb,2025-03,Ve por Más_prestamos_interb_2025-03
+Ve por Más,4053.716204,prestamos_interb,2026-02,Ve por Más_prestamos_interb_2026-02
+Ve por Más,5955.816669,prestamos_interb,2026-03,Ve por Más_prestamos_interb_2026-03
+Ve por Más,0.0,titulos_credito,2025-03,Ve por Más_titulos_credito_2025-03
+Ve por Más,0.0,titulos_credito,2026-02,Ve por Más_titulos_credito_2026-02
+Ve por Más,0.0,titulos_credito,2026-03,Ve por Más_titulos_credito_2026-03
+Volkswagen Bank,3516.314702,captacion_total,2025-03,Volkswagen Bank_captacion_total_2025-03
+Volkswagen Bank,4856.632933000001,captacion_total,2026-02,Volkswagen Bank_captacion_total_2026-02
+Volkswagen Bank,4912.926196,captacion_total,2026-03,Volkswagen Bank_captacion_total_2026-03
+Volkswagen Bank,0.3086,cuenta_global,2025-03,Volkswagen Bank_cuenta_global_2025-03
+Volkswagen Bank,0.235251,cuenta_global,2026-02,Volkswagen Bank_cuenta_global_2026-02
+Volkswagen Bank,0.235915,cuenta_global,2026-03,Volkswagen Bank_cuenta_global_2026-03
+Volkswagen Bank,1.083194,dep_exigibilidad,2025-03,Volkswagen Bank_dep_exigibilidad_2025-03
+Volkswagen Bank,1.080843,dep_exigibilidad,2026-02,Volkswagen Bank_dep_exigibilidad_2026-02
+Volkswagen Bank,0.709716,dep_exigibilidad,2026-03,Volkswagen Bank_dep_exigibilidad_2026-03
+Volkswagen Bank,0.0,dep_plazo_dinero,2025-03,Volkswagen Bank_dep_plazo_dinero_2025-03
+Volkswagen Bank,0.0,dep_plazo_dinero,2026-02,Volkswagen Bank_dep_plazo_dinero_2026-02
+Volkswagen Bank,0.0,dep_plazo_dinero,2026-03,Volkswagen Bank_dep_plazo_dinero_2026-03
+Volkswagen Bank,0.0,dep_plazo_publico,2025-03,Volkswagen Bank_dep_plazo_publico_2025-03
+Volkswagen Bank,0.0,dep_plazo_publico,2026-02,Volkswagen Bank_dep_plazo_publico_2026-02
+Volkswagen Bank,0.0,dep_plazo_publico,2026-03,Volkswagen Bank_dep_plazo_publico_2026-03
+Volkswagen Bank,3514.922908,prestamos_interb,2025-03,Volkswagen Bank_prestamos_interb_2025-03
+Volkswagen Bank,2306.653783,prestamos_interb,2026-02,Volkswagen Bank_prestamos_interb_2026-02
+Volkswagen Bank,2408.279871,prestamos_interb,2026-03,Volkswagen Bank_prestamos_interb_2026-03
+Volkswagen Bank,0.0,titulos_credito,2025-03,Volkswagen Bank_titulos_credito_2025-03
+Volkswagen Bank,2548.663056,titulos_credito,2026-02,Volkswagen Bank_titulos_credito_2026-02
+Volkswagen Bank,2503.700694,titulos_credito,2026-03,Volkswagen Bank_titulos_credito_2026-03
